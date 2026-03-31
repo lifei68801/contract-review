@@ -1,0 +1,87 @@
+{
+  "provider": "serper",
+  "query": "AI trending topics twitter X today March 2026",
+  "results": [
+    {
+      "title": "Trending Ai Topics On X Or Twitter March 2026 - Instagram",
+      "url": "https://www.instagram.com/popular/trending-ai-topics-on-x-or-twitter-march-2026/",
+      "snippet": "Watch reels about trending ai topics on x or twitter march 2026 from people around the world. Here's my take on the top AI tools ...",
+      "score": 1.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "X experiments with pre-share alerts for AI content | Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/x-formerly-twitter-tests-ai-content-alerts-in-stream/814889/",
+      "snippet": "X experiments with pre-share alerts for AI content. Published March 16, 2026. By. Andrew Hutchinson Content and Social Media Manager.",
+      "score": 0.9,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "AI THREAD",
+      "url": "https://x.com/AIGINTFI/status/2035538039078867105",
+      "snippet": "AI THREAD - March 21, 2026. While the world watched the war escalate, three AI stories broke today that matter for anyone building in this space ...",
+      "score": 0.8,
+      "date": "8 days ago"
+    },
+    {
+      "title": "Ai Trends Twitter X March 2026 - Instagram",
+      "url": "https://www.instagram.com/popular/ai-trends-twitter-x-march-2026/",
+      "snippet": "Watch short videos about ai trends twitter x march 2026 from people around the world.",
+      "score": 0.7,
+      "date": null
+    },
+    {
+      "title": "What's Trending (@WhatsTrending) / Posts / X - Twitter",
+      "url": "https://x.com/WhatsTrending",
+      "snippet": "At the 2026 Grammy Awards, artists wore “ICE OUT” pins on the red carpet to spotlight opposition to U.S. Immigration and Customs Enforcement. The campaign began ...",
+      "score": 0.6,
+      "date": null
+    }
+  ],
+  "images": [],
+  "answer": "Watch reels about trending ai topics on x or twitter march 2026 from people around the world. Here's my take on the top AI tools ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.586,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 6.25,
+      "tavily": 1.0
+    }
+  },
+  "_cache_timestamp": 1774828850.5768142,
+  "_cache_key": "e942053b20d9a0743e9073ae89238273",
+  "_cache_query": "AI trending topics twitter X today March 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

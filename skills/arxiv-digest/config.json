@@ -1,0 +1,11 @@
+{
+  "digest_time": "12:00",
+  "categories": ["cs.CL"],
+  "paper_limit": 5,
+  "language": "zh",
+  "delivery": {
+    "channel": "qqbot",
+    "to": "382881D5CE6DE48A936ED458DA38175B"
+  },
+  "created": "2026-03-12T15:47:00Z"
+}

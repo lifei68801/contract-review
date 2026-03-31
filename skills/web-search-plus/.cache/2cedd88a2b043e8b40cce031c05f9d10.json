@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "AI chip war March 2026 new processors",
+  "results": [
+    {
+      "title": "The next phase of artificial intelligence may require very different ...",
+      "url": "https://www.economist.com/science-and-technology/2026/03/18/the-next-phase-of-artificial-intelligence-may-require-very-different-processors",
+      "snippet": "On March 16th it unveiled a new chip designed specifically for inference tasks, the Groq 3 LPX, with an architecture that departs from the ...",
+      "score": 1.0,
+      "date": "Mar 18, 2026"
+    },
+    {
+      "title": "Meta unveils plans for batch of in-house AI chips | Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/meta-unveils-plans-batch-in-house-ai-chips-2026-03-11/",
+      "snippet": "Meta Platforms on Wednesday unveiled a roadmap of four new chips that the company is making in-house, as it rapidly expands its ​data ...",
+      "score": 0.9,
+      "date": "Mar 11, 2026"
+    },
+    {
+      "title": "Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids ...",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028",
+      "snippet": "Meanwhile, Clearwater Forest, introduced March 3 at MWC 2026, is Intel's first 18A server CPU. Expected to be released later this year, the chip ...",
+      "score": 0.8,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "CES 2026: Intel Core Ultra Series 3 Debut as First Built on Intel 18A",
+      "url": "https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a",
+      "snippet": "LAS VEGAS, Jan. 5, 2026 – Today at CES, Intel unveiled Intel Core Ultra Series 3 processors, the first AI PC platform built on Intel 18A process ...",
+      "score": 0.7,
+      "date": "Jan 5, 2026"
+    },
+    {
+      "title": "2026's Real Chip War | GenInnov",
+      "url": "https://www.geninnov.ai/blog/2026s-real-chip-war",
+      "snippet": "Google stopped comparing its new chip to NVIDIA's last chip. It put Ironwood's specs directly against NVIDIA's current flagship, the ...",
+      "score": 0.6,
+      "date": "Nov 12, 2025"
+    }
+  ],
+  "images": [],
+  "answer": "On March 16th it unveiled a new chip designed specifically for inference tasks, the Groq 3 LPX, with an architecture that departs from the ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774836116.482643,
+  "_cache_key": "2cedd88a2b043e8b40cce031c05f9d10",
+  "_cache_query": "AI chip war March 2026 new processors",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

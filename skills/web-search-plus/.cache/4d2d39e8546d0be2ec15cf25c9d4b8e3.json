@@ -1,0 +1,71 @@
+{
+  "provider": "tavily",
+  "query": "Knuth Claude Cycles problem human AI proof assistant",
+  "results": [
+    {
+      "title": "From Knuth to Lean: Formalizing Claude's Cycles One Broken ...",
+      "url": "https://medium.com/@mikito3/from-knuth-to-lean-formalizing-claudes-cycles-one-broken-lemma-at-a-time-5ce16302fd01",
+      "snippet": "less reliable. The best results came when I constrained the AI with artifacts: a proof summary, a markdown plan, an intermediate paper, the current build state, and a narrow task boundary. The worse results came when the system had too much freedom to “fix everything.” Proof assistants reward locality. So do AI-assisted workflows. [...] When Donald Knuth posted Claude’s Cycles, I had the same reaction many people in formal methods probably had: this is too beautiful to leave as an ordinary proof. I wanted to see it inside Lean. Not as a toy sketch, not as a half-formal blog note, but as a real development that compiles, reduces the combinatorics to explicit lemmas, and leaves no `sorry` behind. The problem itself is irresistible: for odd (m \\ge 3), decompose all (3m^3) arcs of a Cayley digraph on (m^3) vertices into exactly three directed Hamiltonian cycles. Knuth’s paper framed the problem, described how Claude Opus 4.6 helped discover the construction, and supplied the human proof that made it rigorous. My question was different: could I follow that proof all the way into Lean 4? (Computer Science) answer, in [...] That theorem is satisfying not only because it formalizes Knuth’s result, but because it records the full structure of the argument: three separate cycle constructions, each shown to be Hamiltonian, plus the pointwise fact that together they partition the outgoing arcs at every vertex. The proof does not merely verify a mathematical statement. It crystallizes an architecture.\n\nI also double checked the proof with Axiom’s proof service: “Axiom Lean Engine”. The result is “TRUE”.",
+      "score": 1.0
+    },
+    {
+      "title": "[PDF] Claude's Cycles [pdf] - Stanford",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "snippet": "5 Breaking news: The problem for even values of m is no longer in doubt! First, I heard again from Ho Boon Suan, who exercised the newly released GPT-5.4 Pro as follows: Your task is to prove rigorously that the algorithm given in  genuinely does always yield three cycles of length m3 each when m is an even number ≥8. It would be good to give insight on why this algorithm works, as well as if there are simpler constructions.\nFor context, see https:/ /cs.stanford.edu/~knuth/papers/claude-cycles.pdf. [...] We’ve now proved that the ﬁrst cycle (the cycle for c = 0 in the C program) is Hamiltonian. Similar proofs can be carried out for the other two cycles. (See the Appendix.) For fun, let’s consider a larger class of cycles for which such proofs exist. Indeed, it turns out that there are hundreds of ways to solve the stated decomposition problem for odd m; Claude Opus 4.6 happened to discover just one of them, by deducing where to look. [...] On another front, an anonymous correspondent “Exocija” has found a new construction for odd m that is probably the simplest possible, from the standpoint of computation, although it might perhaps not have the simplest proof: We can get a valid decomposition by replacing lines 8–10 of the C program by if (s == 0) d = (j == m−1? \"201\" : \"021\"); else if (s == m−1) d = (j == 0? \"102\" : \"120\"); else d = \"012\"; notice that this solution uses only s and j, not i. Furthermore, the identity permutation \"012\" is used at almost every step! (I would have found this solution myself if I’d taken time to look carefully at all 760 of the generalizable solutions for m = 3, because this one is #369 on that list.) He told me on March 6 that he found his proof  by pasting text back and forth between GPT 5.4",
+      "score": 0.999
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude ...",
+      "url": "https://news.ycombinator.com/item?id=47557166",
+      "snippet": "of AI math will I think follow trajectories hinted at in the 90s by the all time great sci-fi author Greg Egan. The nature of math won't change -- but the why of it definitely will. Egan imagined a future ai civilization in Diaspora where \"math discovery\" -- by nature in the future perhaps accurately described as \"mechanistic math discovery\" is modeled by society as a kind of salt mine environment in which you can dig for arbitrarily long amounts of time and find new nuggets. The nuggets themselves have a kind of \"pure value\" as mathematical objects even if they might not have any knowable value outside the mines. Some personalities were interested in and valued the nuggets for their own sake while others didn't but recognized that there were occasionally nuggets found in the mind that [...] | Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact | [...] ask Claude to update its instructions so it doesn't happen again. Then less and less. Eventually it got to the point it was updating and improving the metrics every iteration unsupervised. Edit: This is going to have huge ramifications for the tech security industry as these systems will be able to break security systems as easily it solved the proof. The sooner the good guys, if there are any left, understand this the better it will be for everybody.  > Super interesting but what does this mean for us mere mortals?  I would go for a 2 or 3 hour walk with my phone using the remote control feature looking every 5 - 10 minutes to make sure it doesn't need human help. I went to the coffeeshop and drank very good coffee listening to music. Then at night I sat and had a beer thinking about",
+      "score": 0.999
+    },
+    {
+      "title": "Claude helps Donald Knuth prove a conjecture, says he has to ...",
+      "url": "https://www.reddit.com/r/BetterOffline/comments/1rkwft4/claude_helps_donald_knuth_prove_a_conjecture_says/",
+      "snippet": "During the preparation of a new volume of \"The Art of Computer Programming\", the legendary computer scientist Donald Knuth encountered a conjecture, which he tried to solve for a few weeks. A colleague has been using Claude to try to tackle it, and to the shock of Knuth(Knuth wasn't impressed with LLMs til now), it was a partial success. Claude proved the case for m odd after many explorations and Python programs. Of course, this wasn't complete, as still was necessary to formalized it in a rigorous proof, which Knuth did. Knuth and his colleague try to get Claude to prove the even case but it failed:\n\n\"Filip also told me that he asked Claude to continue on the even case after the odd case had been resolved. [...] “But there after a while it seemed to get stuck. In the end, it was not even able to write and run explore programs correctly anymore, very weird. So I stopped the search.” \"\n\nKnuth is impressed with the results: \"All in all, however, this was definitely an impressive success story. I think Claude Shannon’s spirit is probably proud to know that his name is now being associated with such advances. Hats off to Claude!\" and says that \"It seems that I’ll have to revise my opinions about 'generative AI' one of these days\".\n\nIt seems Knuth didn't run Claude directly, so it is not clear how much intervention it took for Claude to generate this result, but Knuth points out that it wasn't \"smooth\": [...] Go to BetterOffline   \n\nr/BetterOffline   • \n\nGil\\_berth\n\n# Claude helps Donald Knuth prove a conjecture, says he has to \"revise his views on generative AI\"\n\nwww-cs-faculty.stanford.edu\n\nAnother success story of LLMs assisting math research, which has been overblown on pro AI subreddits, so I'll try to give it fair take.",
+      "score": 0.997
+    },
+    {
+      "title": "Donald Knuth's 30-Year Problem — Solved by an AI",
+      "url": "https://valeman.substack.com/p/donald-knuths-30-year-problem-solved",
+      "snippet": "The problem comes from combinatorics and graph theory.\n\nConsider a directed graph with (m^3) vertices labeled (i,j,k) where each coordinate runs from (0) to (m-1).\n\nFrom every vertex there are exactly three possible moves:\n\n increment (i)\n increment (j)\n increment (k)\n\n(all modulo (m)).\n\nThe challenge is deceptively simple to state:\n\n> Can we decompose all edges of this graph into three Hamiltonian cycles?\n\nA Hamiltonian cycle is a path that visits every vertex exactly once before returning to the start.\n\nKnuth had already solved the case (m=3) and suspected that solutions should exist more generally. But finding a general construction turned out to be surprisingly difficult.\n\nThe question lingered for years.\n\n## Enter Claude [...] The question lingered for years.\n\n## Enter Claude\n\nRecently, Knuth’s colleague Filip Stappers asked Claude Opus 4.6, Anthropic’s reasoning model, to investigate the problem.\n\nWhat followed looked less like a chatbot session and more like a research notebook.\n\nThe model proceeded through a sequence of explorations:\n\n1. Reformulating the problem in algebraic terms.\n2. Testing linear and quadratic constructions.\n3. Attempting brute-force depth-first search.\n4. Discovering a “serpentine” cycle pattern.\n5. Analyzing the graph using fiber decompositions.\n6. Running simulated annealing searches.\n\nMost attempts failed.\n\nBut the exploration gradually revealed structural regularities in the graph.\n\nEventually the model discovered a surprisingly simple rule that generates three Hamiltonian cycles. [...] The construction works for all odd values of (m).\n\n## The Algorithmic Insight\n\nThe solution depends on the quantity\n\n\\(s = (i + j + k) \\bmod m.\\)\n\nDepending on the value of (s) and whether coordinates equal (0) or (m-1), the algorithm decides which coordinate to increment next.\n\nThis rule produces a cycle that visits all (m^3) vertices exactly once.\n\nTwo related rules produce the other cycles.\n\nTogether they partition all edges of the graph into three Hamiltonian cycles — exactly what Knuth had been looking for.\n\n## Verification\n\nThe construction was tested computationally.\n\nFor odd values of (m) up to 101, the decomposition works perfectly.\n\nKnuth then supplied the mathematical proof explaining why the cycle structure covers every vertex.\n\n## Knuth’s Reaction",
+      "score": 0.995
+    }
+  ],
+  "images": [],
+  "answer": "Donald Knuth's problem about decomposing directed graph edges into three Hamiltonian cycles was solved by AI, with human verification. The AI discovered a simple rule for constructing the cycles. The cycles work for odd values of m.",
+  "routing": {
+    "auto_routed": true,
+    "provider": "tavily",
+    "confidence": 0.0,
+    "confidence_level": "low",
+    "reason": "no_signals_matched",
+    "top_signals": [],
+    "scores": {
+      "serper": 0.0,
+      "tavily": 0.0
+    }
+  },
+  "_cache_timestamp": 1774749672.8197494,
+  "_cache_key": "4d2d39e8546d0be2ec15cf25c9d4b8e3",
+  "_cache_query": "Knuth Claude Cycles problem human AI proof assistant",
+  "_cache_provider": "tavily",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

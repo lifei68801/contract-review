@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Knuth Claude Cycles human AI proof assistant wang bowang 2026",
+  "results": [
+    {
+      "title": "Bo Wang",
+      "url": "https://x.com/BoWang87/status/2037648937453232504",
+      "snippet": "Prof. Knuth titled the paper Claude's Cycles. The story didn't end there. The updated paper shows the story got ...",
+      "score": 1.0,
+      "date": "2 days ago"
+    },
+    {
+      "title": "[PDF] Claude's Cycles [pdf] - Stanford",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "snippet": "After deleting this cycle from the graph, Claude looked at the remaining 2-regular digraph and found that it has “rigid structure making ...",
+      "score": 0.9,
+      "date": "Feb 28, 2026"
+    },
+    {
+      "title": "Don Knuth wrote a paper thanking Claude for solving an open math ...",
+      "url": "https://blog.adafruit.com/2026/03/03/don-knuth-wrote-a-paper-thanking-claude-for-solving-an-open-math-problem/",
+      "snippet": "Claude Opus 4.6 solved an open combinatorics problem that Knuth had been working on for weeks. It was a directed Hamiltonian cycle decomposition ...",
+      "score": 0.8,
+      "date": "Mar 3, 2026"
+    },
+    {
+      "title": "Opus 4.6 solved one of Donald Knuth's conjectures from writing \"The ...",
+      "url": "https://www.reddit.com/r/singularity/comments/1rkhady/opus_46_solved_one_of_donald_knuths_conjectures/",
+      "snippet": "Opus 4.6 solved one of Donald Knuth's conjectures from writing \"The Art of Computer Programming\" and he's quite excited about it. AI.",
+      "score": 0.7,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Knuth revises opinion on generative ai - Facebook",
+      "url": "https://www.facebook.com/groups/techtitansgroup/posts/1605362534124392/",
+      "snippet": "Knuth read the output, wrote the formal proof, and closed with: \"It seems I'll have to revise my opinions about generative AI one of these days.",
+      "score": 0.6,
+      "date": "Mar 7, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "Prof. Knuth titled the paper Claude's Cycles. The story didn't end there. The updated paper shows the story got ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774782097.9472377,
+  "_cache_key": "4bcf61a7ea92b8757f2ad65b2a7b1ecc",
+  "_cache_query": "Knuth Claude Cycles human AI proof assistant wang bowang 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

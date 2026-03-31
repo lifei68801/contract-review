@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "AI regulation EU delay 2026",
+  "results": [
+    {
+      "title": "European Parliament votes to delay EU AI Act implementation - CIO",
+      "url": "https://www.cio.com/article/4150989/european-parliament-delays-implementation-of-parts-of-the-eu-ai-act.html",
+      "snippet": "With the first of the deadlines MEPs voted to delay coming up in August 2026 ... Parliament proposed that “for high-risk AI systems specifically ...",
+      "score": 1.0,
+      "date": "3 days ago"
+    },
+    {
+      "title": "EU AI Act High-Risk Delay: Training Obligation Still Mandatory ...",
+      "url": "https://www.delbion.com/en/insights/eu-ai-act-high-risk-delay-training-still-mandatory",
+      "snippet": "The EU Council delayed high-risk AI rules to December 2027. But Article 4 mandatory AI literacy training for all staff stays at August 2026.",
+      "score": 0.9,
+      "date": "3 days ago"
+    },
+    {
+      "title": "The EU AI Act implementation timeline - Kennedys Law",
+      "url": "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-eu-ai-act-implementation-timeline-understanding-the-next-deadline-for-compliance/",
+      "snippet": "2 August 2030: The AI Act applies to certain high-risk AI systems placed on the market or put into service before 2 August 2026 and intended to ...",
+      "score": 0.8,
+      "date": "5 days ago"
+    },
+    {
+      "title": "On the AI Act, the EU Need Not Move Fast and Break Things",
+      "url": "https://progresschamber.org/insights/ai-act-eu-need-not-move-fast-break-things/",
+      "snippet": "However, the amendments necessary to pause the rules might pass months after said rules are supposed to apply in August 2026. Unfortunately ...",
+      "score": 0.7,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "European Commission misses deadline for AI Act guidance on high ...",
+      "url": "https://iapp.org/news/a/european-commission-misses-deadline-for-ai-act-guidance-on-high-risk-systems",
+      "snippet": "They are now aiming for the end of 2026. Industry calls for a delay have been strong, with stakeholders arguing the AI Act burdens companies ...",
+      "score": 0.6,
+      "date": "Feb 3, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "With the first of the deadlines MEPs voted to delay coming up in August 2026 ... Parliament proposed that “for high-risk AI systems specifically ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774857665.0330713,
+  "_cache_key": "13a4683834f9765514734ce5884e013e",
+  "_cache_query": "AI regulation EU delay 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

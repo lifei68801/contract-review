@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1773973233829
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773973237586
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773973240557
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773973244293
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773973247593
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773973251799
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1771928431995
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773973256955
+    },
+    "cursor-agent": {
+      "version": "2.1.0",
+      "installedAt": 1772441466979
+    },
+    "skill-vetting": {
+      "version": "1.1.0",
+      "installedAt": 1772500695930
+    },
+    "openclaw-shield-upx": {
+      "version": "1.0.8",
+      "installedAt": 1772676812980
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772812319330
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1772874824610
+    },
+    "humanizer-zh": {
+      "version": "1.0.0",
+      "installedAt": 1772940817182
+    },
+    "context-compression": {
+      "version": "3.13.3",
+      "installedAt": 1774188546002
+    },
+    "video-summary": {
+      "version": "1.3.6",
+      "installedAt": 1773202617955
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1773014544533
+    },
+    "arxiv-digest": {
+      "version": "1.0.1",
+      "installedAt": 1773330000551
+    },
+    "x-tweet-fetcher": {
+      "version": "0.1.0",
+      "installedAt": 1773358742931
+    },
+    "consulting-slide-generator": {
+      "version": "1.0.0",
+      "installedAt": 1773402997423
+    },
+    "doc2slides": {
+      "version": "3.6.0",
+      "installedAt": 1774192784420
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1774349296668
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1774349407581
+    },
+    "stock-analysis": {
+      "version": "6.2.0",
+      "installedAt": 1774351164397
+    },
+    "follow-builders": {
+      "version": "0.1.0",
+      "installedAt": 1774468617943
+    },
+    "web-search-plus": {
+      "version": "2.9.2",
+      "installedAt": 1774701101939
+    }
+  }
+}

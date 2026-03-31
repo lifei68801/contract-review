@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Musk xAI last co-founder leaves 2026",
+  "results": [
+    {
+      "title": "Elon Musk's last co-founder reportedly leaves xAI - TechCrunch",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "snippet": "Now, according to Business Insider, the remaining two co-founders, Manuel Kroiss and Ross Nordeen, have left as well. BI said on Wednesday that ...",
+      "score": 1.0,
+      "date": "1 day ago"
+    },
+    {
+      "title": "Elon Musk's last co-founder reportedly leaves xAI - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-last-co-founder-161116585.html",
+      "snippet": "Earlier this month, it looked like all but two of Elon Musk's 11 co-founders at his AI startup xAI had departed the company.",
+      "score": 0.9,
+      "date": "1 day ago"
+    },
+    {
+      "title": "All 11 xAI co-founders have now left Elon Musk's AI company - TNW",
+      "url": "https://thenextweb.com/news/xai-all-cofounders-departed-musk-spacex-rebuild",
+      "snippet": "But the cascade began in earnest when Tony Wu, one of the most operationally central co-founders, announced his departure on February 10, 2026.",
+      "score": 0.8,
+      "date": "1 day ago"
+    },
+    {
+      "title": "Elon Musk's last xAI cofounder has left (X.AI:Private) | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4569997-elon-musks-last-xai-cofounder-has-left",
+      "snippet": "36-year-old Ross Nordeen, a Michigan Tech grad, has left the firm this week. His departure comes weeks after xAI's (X.AI) recent merger with ...",
+      "score": 0.7,
+      "date": "1 day ago"
+    },
+    {
+      "title": "Elon Musk's last XAI cofounder has reportedly left the company - MSN",
+      "url": "https://www.msn.com/en-us/money/companies/elon-musk-s-last-xai-cofounder-has-reportedly-left-the-company/ar-AA1ZCacO",
+      "snippet": "36-year-old Ross Nordeen, a Michigan Tech grad, has left the firm this week. His departure comes weeks after xAI's (X.AI) recent merger with ...",
+      "score": 0.6,
+      "date": "23 hours ago"
+    }
+  ],
+  "images": [],
+  "answer": "Now, according to Business Insider, the remaining two co-founders, Manuel Kroiss and Ross Nordeen, have left as well. BI said on Wednesday that ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774825300.8969262,
+  "_cache_key": "5d6d00913629de9dc969e4fd086a144d",
+  "_cache_query": "Musk xAI last co-founder leaves 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "3:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

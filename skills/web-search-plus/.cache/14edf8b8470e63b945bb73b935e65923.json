@@ -1,0 +1,95 @@
+{
+  "provider": "serper",
+  "query": "AI news today March 30 31 2026 OpenAI Google DeepMind new release",
+  "results": [
+    {
+      "title": "Daily AI & Data News Summary - March 30, 2026 OpenAI Advances ...",
+      "url": "https://www.facebook.com/groups/326939931265879/posts/1912713489355174/",
+      "snippet": "In other advancements, a new project from Google DeepMind called AlphaEvolve, combines the coding skills of its Gemini AI model with a ...",
+      "score": 1.0,
+      "date": "19 hours ago"
+    },
+    {
+      "title": "Have you heard these exciting AI news? - YouTube",
+      "url": "https://www.youtube.com/watch?v=qFq7EkmkRBQ",
+      "snippet": "Have you heard these exciting AI news? - March 27, 2026 AI Updates Weekly Presented by Lev Selector Slides on GDrive: ...",
+      "score": 0.9,
+      "date": "3 days ago"
+    },
+    {
+      "title": "The Serious Insights State of AI 2026 March Update",
+      "url": "https://www.seriousinsights.net/state-of-ai-2026-march-update/",
+      "snippet": "This positions GPT-5.4 as OpenAI's enterprise-focused flagship, designed for knowledge work that involves spreadsheets, presentations, document ...",
+      "score": 0.8,
+      "date": "6 hours ago"
+    },
+    {
+      "title": "Today In AI on Instagram: \"Google paid $600M for DeepMind and ...",
+      "url": "https://www.instagram.com/reel/DWhL3YXDR_6/",
+      "snippet": "7 likes, 0 comments - todayin_ai on March 30, 2026: \"Google paid $600M for DeepMind and everyone thought they were insane. Zero revenue.",
+      "score": 0.7,
+      "date": "6 hours ago"
+    },
+    {
+      "title": "[AINews] Every Lab serious enough about Developers has bought ...",
+      "url": "https://www.latent.space/p/ainews-every-lab-serious-enough-about",
+      "snippet": "OpenAI buys Astral, Anthropic buys Bun, Google DeepMind bought the Antigravity team.",
+      "score": 0.6,
+      "date": null
+    }
+  ],
+  "images": [],
+  "answer": "In other advancements, a new project from Google DeepMind called AlphaEvolve, combines the coding skills of its Gemini AI model with a ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.712,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      },
+      {
+        "matched": "brand + product detected",
+        "weight": 1.5
+      }
+    ],
+    "scores": {
+      "serper": 10.25,
+      "tavily": 2.5
+    }
+  },
+  "_cache_timestamp": 1774915351.7580347,
+  "_cache_key": "14edf8b8470e63b945bb73b935e65923",
+  "_cache_query": "AI news today March 30 31 2026 OpenAI Google DeepMind new release",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

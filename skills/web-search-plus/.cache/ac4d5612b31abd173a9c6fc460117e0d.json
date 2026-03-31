@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Mistral AI 30M debt data center Paris 2026",
+  "results": [
+    {
+      "title": "Mistral secures $830 million in debt financing to fund AI data center",
+      "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+      "snippet": "French AI startup Mistral said Monday it has secured $830 million in debt financing to fund a data center powered by thousands of Nvidia",
+      "score": 1.0,
+      "date": "16 hours ago"
+    },
+    {
+      "title": "Mistral AI raises $830m in debt financing for data center in Paris ...",
+      "url": "https://www.datacenterdynamics.com/en/news/mistral-ai-raises-830m-in-debt-financing-for-data-center-in-paris-france/",
+      "snippet": "French artificial intelligence lab Mistral AI has raised $830 million in debt financing to fund the purchase of GPUs for its planned data ...",
+      "score": 0.9,
+      "date": "13 hours ago"
+    },
+    {
+      "title": "French AI firm Mistral borrows $830 million to build Paris data center",
+      "url": "https://www.lemonde.fr/en/france/article/2026/03/30/french-ai-firm-mistral-borrows-830-million-to-build-paris-data-center_6751956_7.html",
+      "snippet": "The data center at Bruyères-le-Chatel, southwest of Paris, is \"set to become operational in Q2 2026,\" hosting almost 14,000 of AI chip ...",
+      "score": 0.8,
+      "date": "7 hours ago"
+    },
+    {
+      "title": "Mistral secures $830M to build first AI data centre in France - Vestbee",
+      "url": "https://www.vestbee.com/insights/articles/mistral-secures-830-m",
+      "snippet": "The fresh $830 million capital aims to fund Mistral's first data center near Paris and expand its AI infrastructure with 13800 NVIDIA GPUs.",
+      "score": 0.7,
+      "date": "10 hours ago"
+    },
+    {
+      "title": "France's Mistral raises $830 million in debt for AI data centre build-up",
+      "url": "https://ca.finance.yahoo.com/news/frances-mistral-raises-830-million-060341046.html",
+      "snippet": "Europe's leading AI provider Mistral has raised $830 million in new ‌debt to buy 13800 Nvidia chips for a major ‌data centre near Paris, ...",
+      "score": 0.6,
+      "date": "17 hours ago"
+    }
+  ],
+  "images": [],
+  "answer": "French AI startup Mistral said Monday it has secured $830 million in debt financing to fund a data center powered by thousands of Nvidia",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774911662.028396,
+  "_cache_key": "ac4d5612b31abd173a9c6fc460117e0d",
+  "_cache_query": "Mistral AI 30M debt data center Paris 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

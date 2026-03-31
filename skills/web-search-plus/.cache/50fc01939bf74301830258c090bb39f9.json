@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Wikipedia cracks down AI article writing 2026",
+  "results": [
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing - TechCrunch",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "snippet": "This week, Wikipedia banned the use of AI-generated text by its editors — although it stopped short of banning AI outright from the site's ...",
+      "score": 1.0,
+      "date": "3 days ago"
+    },
+    {
+      "title": "Wikipedia officially bans AI-generated content - New York Post",
+      "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
+      "snippet": "Under the new ban, Wikipedia's 260,000 editors are still permitted to use AI to translate articles from other languages or suggest copy edits, ...",
+      "score": 0.9,
+      "date": "1 day ago"
+    },
+    {
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "snippet": "Wikipedia has banned the use of artificial intelligence in the generation or rewriting of content for its voluminous online encyclopedia.",
+      "score": 0.8,
+      "date": "2 days ago"
+    },
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing - MSN",
+      "url": "https://www.msn.com/en-us/news/technology/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/ar-AA1ZugMp?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "snippet": "This week, Wikipedia banned the use of AI-generated text by its editors—although it stopped short of banning AI outright from the site's ...",
+      "score": 0.7,
+      "date": "3 days ago"
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles - The Verge",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "snippet": "Wikipedia bans AI-generated articles. Wikipedia editors can only use AI for basic copy editing or translations.",
+      "score": 0.6,
+      "date": "3 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "This week, Wikipedia banned the use of AI-generated text by its editors — although it stopped short of banning AI outright from the site's ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774825302.358516,
+  "_cache_key": "50fc01939bf74301830258c090bb39f9",
+  "_cache_query": "Wikipedia cracks down AI article writing 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "3:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

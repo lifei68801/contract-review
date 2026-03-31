@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Innovation Council Action AI 00 million midterms deregulation spending 2026",
+  "results": [
+    {
+      "title": "New pro-AI group backed by Trump allies plans $100M midterm ...",
+      "url": "https://www.foxnews.com/politics/new-pro-ai-group-backed-trump-allies-plans-100m-midterm-spending-push",
+      "snippet": "A new pro-AI political group championed by David Sacks plans to spend $100M in the 2026 midterms, signaling a major push to shape U.S. tech ...",
+      "score": 1.0,
+      "date": "6 hours ago"
+    },
+    {
+      "title": "New pro-AI group backed by Trump allies plans $100M midterm ...",
+      "url": "https://www.aol.com/articles/pro-ai-group-backed-trump-170444698.html",
+      "snippet": "AI is emerging as a key political battleground as a new $100M pro-industry group enters the 2026 midterms to back deregulation and counter ...",
+      "score": 0.9,
+      "date": "4 hours ago"
+    },
+    {
+      "title": "TRUMP'S AI PUSH: New pro-industry group plans $100M midterm ...",
+      "url": "https://www.facebook.com/FoxNewsPolitics/posts/trumps-ai-push-new-pro-industry-group-plans-100m-midterm-spending-to-back-deregu/1334259658569950/",
+      "snippet": "TRUMP'S AI PUSH: New pro-industry group plans $100M midterm spending to back deregulation. Innovation Council Action, backed by Trump allies ...",
+      "score": 0.8,
+      "date": "5 hours ago"
+    },
+    {
+      "title": "AI money is entering the 2026 midterms. A $125M super PAC is ...",
+      "url": "https://www.facebook.com/usapromise/posts/ai-money-is-entering-the-2026-midtermsa-125m-super-pac-is-backing-candidates-ali/1343196767846374/",
+      "snippet": "AI money is entering the 2026 midterms. A $125M super PAC is backing candidates aligned with its AI policy priorities, while other groups ...",
+      "score": 0.7,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "AI money is already influencing the midterms. And more is coming.",
+      "url": "https://www.washingtonpost.com/politics/2026/03/12/ai-funding-midterm-elections/",
+      "snippet": "Candidates backed by AI companies have found early success — of the 20 candidates in the Texas and North Carolina primaries who received AI ...",
+      "score": 0.6,
+      "date": "Mar 12, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "A new pro-AI political group championed by David Sacks plans to spend $100M in the 2026 midterms, signaling a major push to shape U.S. tech ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774825352.4392757,
+  "_cache_key": "0ee437c443a82aac457dfcf14af48a42",
+  "_cache_query": "Innovation Council Action AI 00 million midterms deregulation spending 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "3:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "ScaleOps 30M AI computing efficiency 2026",
+  "results": [
+    {
+      "title": "News - ScaleOps",
+      "url": "https://scaleops.com/resources/news/",
+      "snippet": "Explore how leading companies use ScaleOps to optimize Kubernetes workloads, reduce cloud costs, and enhance performance.",
+      "score": 1.0,
+      "date": null
+    },
+    {
+      "title": "ScaleOps: Automated Kubernetes Resource Optimization",
+      "url": "https://scaleops.com/",
+      "snippet": "Reduce K8s costs by up to 80% and boost reliability with real-time, context-aware application automation built for critical, production-grade environments.",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "ScaleOps Launches AI Infrastructure Resource Management ...",
+      "url": "https://finance.yahoo.com/news/scaleops-launches-ai-infrastructure-management-150000420.html",
+      "snippet": "ScaleOps expands its cloud resource management platform to self-hosted GenAI models and GPU-based applications, enabling enterprises to run ...",
+      "score": 0.8,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "AI Trends for 2026 – Power, Not Compute, Becomes Bottleneck for ...",
+      "url": "https://www.mofo.com/resources/insights/260205-ai-trends-for-2026-power-not-compute",
+      "snippet": "In 2026, AI infrastructure is no longer defined by scale alone; it is about power density, access to energy, geographic location, resilience, ...",
+      "score": 0.7,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "FinOps 2026 Shift Left and Up as AI Drives Technology Value",
+      "url": "https://thecuberesearch.com/finops-2026-shift-left-and-up-as-ai-drives-technology-value/",
+      "snippet": "FinOps 2026 data shows AI spend at 98% and a shift toward proactive, executive-aligned technology value governance.",
+      "score": 0.6,
+      "date": "Feb 20, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "Explore how leading companies use ScaleOps to optimize Kubernetes workloads, reduce cloud costs, and enhance performance.",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774911649.3543432,
+  "_cache_key": "5cf84d31474a1a8202afef95d7213e94",
+  "_cache_query": "ScaleOps 30M AI computing efficiency 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "provider": "serper",
+  "query": "AI news March 28 29 2026 techcrunch hacker news",
+  "results": [
+    {
+      "title": "2026-03-28 front - Hacker News",
+      "url": "https://news.ycombinator.com/front?day=2026-03-28",
+      "snippet": "Hacker News ; 3. Colorado House passes bill to limit surveillance pricing and wage setting (coloradonewsline.com) ; 5 points by jprs 4 hours ago | ...",
+      "score": 1.0,
+      "date": "1 day ago"
+    },
+    {
+      "title": "Ask HN: What are you working on? (March 2026) - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47204228",
+      "snippet": "Hacker Newsnew | past | comments | ask | show | jobs | submit ...",
+      "score": 0.9,
+      "date": "Mar 1, 2026"
+    },
+    {
+      "title": "Amazon cuts 16k jobs - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=46796745",
+      "snippet": "... news.ycombinator.com/item?id=44398978 - June 2025 (4 comments). Jury finds Cognizant discriminated against US workers - https://news.ycombinator ...",
+      "score": 0.8,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "It's only the latest of several side project that the AI startup has ...",
+      "url": "https://www.facebook.com/techcrunch/posts/its-only-the-latest-of-several-side-project-that-the-ai-startup-has-ditched-over/1291486136178584/",
+      "snippet": "... new AI security system falls to hackers within days https://the-decoder.com/anthropics-new -ai-security-system-falls-to-hackers-within-days ...",
+      "score": 0.7,
+      "date": "2 days ago"
+    },
+    {
+      "title": "AI - TechCrunch",
+      "url": "https://techcrunch.com/tag/ai/",
+      "snippet": "Someone has publicly leaked an exploit kit that can hack millions of iPhones · Lorenzo Franceschi-Bicchierai · Zack Whittaker · Cursor admits its new coding ...",
+      "score": 0.6,
+      "date": null
+    }
+  ],
+  "images": [],
+  "answer": "Hacker News ; 3. Colorado House passes bill to limit surveillance pricing and wage setting (coloradonewsline.com) ; 5 points by jprs 4 hours ago | ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.577,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 5.2,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774749631.9543982,
+  "_cache_key": "664e96d5bdaff3472b1f1f18851dcef5",
+  "_cache_query": "AI news March 28 29 2026 techcrunch hacker news",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

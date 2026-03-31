@@ -1,0 +1,95 @@
+{
+  "provider": "serper",
+  "query": "AI news today March 28 2026 latest",
+  "results": [
+    {
+      "title": "AI News Briefs BULLETIN BOARD for March 2026 | Radical Data ...",
+      "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
+      "snippet": "[3/25/2026] Brett Adcock's $100M stealth AI device startup – Figure AI founder Brett Adcock just launched Hark, a new AI startup that aims to ...",
+      "score": 1.0,
+      "date": "2 days ago"
+    },
+    {
+      "title": "Video. Latest news bulletin | March 28th, 2026 – Morning | Euronews",
+      "url": "https://www.euronews.com/video/2026/03/28/latest-news-bulletin-march-28th-2026-morning",
+      "snippet": "Video. Catch up with the most important stories from around Europe and beyond this March 28th, 2026 - latest news, breaking news, World, ...",
+      "score": 0.9,
+      "date": "17 hours ago"
+    },
+    {
+      "title": "AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "snippet": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global ...",
+      "score": 0.8,
+      "date": null
+    },
+    {
+      "title": "AI Update, March 27, 2026: AI News and Views From the Past Week",
+      "url": "https://www.marketingprofs.com/opinions/2026/54473/ai-update-march-27-2026-ai-news-and-views-from-the-past-week",
+      "snippet": "AI fluency emerges as a new driver of workforce inequality. New research shows that experienced AI users significantly outperform newcomers ...",
+      "score": 0.7,
+      "date": "1 day ago"
+    },
+    {
+      "title": "The top 30 AI stories from March 2026 - The Humans in the Loop",
+      "url": "https://www.thehumansintheloop.ai/p/the-top-30-ai-stories-from-march",
+      "snippet": "30 AI stories from March 2026: Anthropic vs the Pentagon, AI in the Iran kill chain, OpenAI's code red, and why half of teenagers use ...",
+      "score": 0.6,
+      "date": "2 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "[3/25/2026] Brett Adcock's $100M stealth AI device startup – Figure AI founder Brett Adcock just launched Hark, a new AI startup that aims to ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.836,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "latest",
+        "weight": 2.5
+      },
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 12.12,
+      "tavily": 1.5
+    }
+  },
+  "_cache_timestamp": 1774738839.3192277,
+  "_cache_key": "678d3fff5b1d4c84b86637dd015ec3d0",
+  "_cache_query": "AI news today March 28 2026 latest",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

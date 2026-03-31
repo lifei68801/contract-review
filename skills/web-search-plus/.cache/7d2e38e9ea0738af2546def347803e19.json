@@ -1,0 +1,108 @@
+{
+  "provider": "serper",
+  "query": "Gemini upgrade NotebookLM March 2026 Google AI",
+  "results": [
+    {
+      "title": "New updates to the Gemini app, March 2026 - Google Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-updates-march-2026/",
+      "snippet": "Brainstorm out loud with our biggest upgrade to Gemini Live yet. Conversations on 3.1 now flow faster and hold your context twice as long ...",
+      "score": 1.0,
+      "date": "2 days ago"
+    },
+    {
+      "title": "NotebookLM Changed Completely: Here's What Matters (in 2026)",
+      "url": "https://www.youtube.com/watch?v=_uXnyhrqmsU",
+      "snippet": "Delete Google Chrome NOW: The 3 \"Safe\" Browsers You Should Use Instead ... The AI System Most People Aren't Building (Gemini + NotebookLM + Gems).",
+      "score": 0.9,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Gemini on NLM RAG Bugs as as March 3rd - Use Free rather than ...",
+      "url": "https://www.reddit.com/r/notebooklm/comments/1rjiemw/gemini_on_nlm_rag_bugs_as_as_march_3rd_use_free/",
+      "snippet": "\"The February 19 Regression: Google pushed a major update that optimized notebooklm for \"Agentic AI\" and reasoning benchmarks, which ...",
+      "score": 0.8,
+      "date": "Mar 3, 2026"
+    },
+    {
+      "title": "Using NotebookLM with Gemini - AI Supremacy",
+      "url": "https://www.ai-supremacy.com/p/using-notebooklm-with-gemini-2026",
+      "snippet": "At the beginning of March we learned that NotebookLM is introducing Cinematic Video Overviews, a major update to its AI-powered video creation ...",
+      "score": 0.7,
+      "date": "Mar 18, 2026"
+    },
+    {
+      "title": "AI News: Gemini Is SO Much Better Now (+ NotebookLM ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=jWNlxQQ_W_Q",
+      "snippet": "From a huge Gemini Live upgrade to a slick new NotebookLM feature, plus ... Morning Joe 3/29/26 | 🅱️ Breaking News Today March 29, 2026.",
+      "score": 0.6,
+      "date": "1 day ago"
+    },
+    {
+      "title": "I upgraded to Gemini AI plus. It's almost 36-48 hours now. I still can't ...",
+      "url": "https://support.google.com/gemini/thread/416640167/i-upgraded-to-gemini-ai-plus-it-s-almost-36-48-hours-now-i-still-can-t-create-any-audio-overviews?hl=en",
+      "snippet": "Notebooklm on web browser says mine is a PLUS account which i upgraded on Tuesday, Mar 10, 2026. Today is Mar 12, 2026.",
+      "score": 0.5,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "NotebookLM has been updated with Gemini 3.1 Pro for Google AI ...",
+      "url": "https://www.threads.com/@everimaginetech/post/DVAUScqAahs/notebook-lm-has-been-updated-with-gemini-pro-for-google-ai-pro-and-ultra?hl=en",
+      "snippet": "NotebookLM has been updated with Gemini 3.1 Pro for Google AI Pro and Ultra subscribers. The new model enhances core reasoning abilities, while ...",
+      "score": 0.4,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "University of Houston Launches Google Gemini for Education to ...",
+      "url": "https://www.uh.edu/news-events/stories/2026/march/03172026-google-ai-partnership.php",
+      "snippet": "The University of Houston is partnering with Google to bring Gemini for Education and NotebookLM to campus, expanding secure AI-powered ...",
+      "score": 0.3,
+      "date": "Mar 17, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "Brainstorm out loud with our biggest upgrade to Gemini Live yet. Conversations on 3.1 now flow faster and hold your context twice as long ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.53,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      },
+      {
+        "matched": "brand + product detected",
+        "weight": 1.5
+      }
+    ],
+    "scores": {
+      "serper": 4.2,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774832426.191529,
+  "_cache_key": "7d2e38e9ea0738af2546def347803e19",
+  "_cache_query": "Gemini upgrade NotebookLM March 2026 Google AI",
+  "_cache_provider": "serper",
+  "_cache_max_results": 8,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

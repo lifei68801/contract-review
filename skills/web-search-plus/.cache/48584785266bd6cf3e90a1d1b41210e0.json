@@ -1,0 +1,87 @@
+{
+  "provider": "serper",
+  "query": "site:news.ycombinator.com AI news today",
+  "results": [
+    {
+      "title": "Will the AI data centre boom become a $9T bust? - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47559948",
+      "snippet": "The forecasted net new energy requirements for the AI buildout over the next couple of years are roughly equivalent to all of Western Europe's ...",
+      "score": 1.0,
+      "date": "1 day ago"
+    },
+    {
+      "title": "The Limits of Today's AI Systems | Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47233969",
+      "snippet": "Recently, I've increasingly come to believe that intelligence is no longer AI's bottleneck. The systems we build around it are.",
+      "score": 0.9,
+      "date": "Mar 3, 2026"
+    },
+    {
+      "title": "Ask HN: Why is everyone here so AI-hyped? - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=46965731",
+      "snippet": "It's: - AI replacing search as the interface layer. - AI compressing junior-level execution work. - AI reshaping how products are discovered (AI ...",
+      "score": 0.8,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "The AI vibe shift is upon us - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=45003052",
+      "snippet": "3d tools will have to stay at 2025 levels to stay AI compatible. No more artistic development (sure 1 or 2 home hobby people will break though, but nothing like ...",
+      "score": 0.7,
+      "date": null
+    },
+    {
+      "title": "What 81,000 people want from AI | Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47435156",
+      "snippet": "People tend to be more honest and reflective with their AI than they are with doctors. They get 5 minutes to give the entire case to the doctor.",
+      "score": 0.6,
+      "date": "Mar 19, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "The forecasted net new energy requirements for the AI buildout over the next couple of years are roughly equivalent to all of Western Europe's ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.602,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      }
+    ],
+    "scores": {
+      "serper": 6.05,
+      "tavily": 0.6
+    }
+  },
+  "_cache_timestamp": 1774868459.7841601,
+  "_cache_key": "48584785266bd6cf3e90a1d1b41210e0",
+  "_cache_query": "site:news.ycombinator.com AI news today",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

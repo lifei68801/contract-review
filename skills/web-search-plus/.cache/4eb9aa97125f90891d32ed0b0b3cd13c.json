@@ -1,0 +1,91 @@
+{
+  "provider": "serper",
+  "query": "AI news trending today March 31 2026",
+  "results": [
+    {
+      "title": "CNBC's China Connection newsletter: AI race enters a new phase",
+      "url": "https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html",
+      "snippet": "CNBC's The China Connection newsletter: China's AI race enters a new phase. Published Mon, Mar 30 20267:03 PM EDT Updated An Hour Ago.",
+      "score": 1.0,
+      "date": "7 hours ago"
+    },
+    {
+      "title": "Dissenting voices against AI are getting louder - The Economic Times",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/dissenting-voices-against-ai-are-getting-louder/articleshow/129907947.cms",
+      "snippet": "The call is to pause the development of AI systems since they pose significant risks, including existential threat. But Swathi Moorthy finds ...",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "Have you heard these exciting AI news? - YouTube",
+      "url": "https://www.youtube.com/watch?v=qFq7EkmkRBQ",
+      "snippet": "Have you heard these exciting AI news? - March 27, 2026 AI Updates Weekly Presented by Lev Selector Slides on GDrive: ...",
+      "score": 0.8,
+      "date": "3 days ago"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for March 2026 | Radical Data ...",
+      "url": "https://radicaldatascience.wordpress.com/2026/03/30/ai-news-briefs-bulletin-board-for-march-2026/",
+      "snippet": "Welcome to the AI News Briefs Bulletin Board, a timely new channel bringing you the latest industry insights and perspectives surrounding ...",
+      "score": 0.7,
+      "date": "13 hours ago"
+    },
+    {
+      "title": "AI deepfakes blur reality in 2026 U.S. midterm campaigns",
+      "url": "https://www.japantimes.co.jp/news/2026/03/30/world/politics/ai-deepfakes-2026-us-midterms/",
+      "snippet": "Politics experts worry such videos could leave voters confused, or even deceived. The stakes are ​high: the election will determine which party ...",
+      "score": 0.6,
+      "date": "1 day ago"
+    }
+  ],
+  "images": [],
+  "answer": "CNBC's The China Connection newsletter: China's AI race enters a new phase. Published Mon, Mar 30 20267:03 PM EDT Updated An Hour Ago.",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.704,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 8.75,
+      "tavily": 1.0
+    }
+  },
+  "_cache_timestamp": 1774936905.045169,
+  "_cache_key": "4eb9aa97125f90891d32ed0b0b3cd13c",
+  "_cache_query": "AI news trending today March 31 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

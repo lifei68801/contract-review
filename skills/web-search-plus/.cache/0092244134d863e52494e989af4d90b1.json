@@ -1,0 +1,63 @@
+{
+  "provider": "tavily",
+  "query": "explain how AI token monitoring works in companies",
+  "results": [
+    {
+      "title": "AI Tokens and How They Impact Usage Costs—Explained",
+      "url": "https://www.pivotpointsecurity.com/falling-behind-on-cmmc-compliance-heres-how-to-catch-up-fast-2-2-2-2/",
+      "snippet": "# Why are AI tokens important for businesses that use AI?\n\nBreaking text into tokens is what allows an AI model to analyze the relationship among the units, from which it generates human-like text output.\n\nEvery request you send to an AI API is measured in tokens—both the text you send in and the text it sends back. Tokens are how the API calculates:\n\n Cost\n Response speed\n Usage limits (most APIs have a maximum number of input tokens plus output tokens per request)\n\nIf you’ve ever hit an error like “context length exceeded,” you’ve sent too many tokens in one go.\n\n# How do extra words add to the cost of AI services? [...] What are AI tokens and why should your business care about them? This short article covers what you need to know.\n\n# Key takeaways\n\n AI tokens are the basic data units that AI models process. They can include words, punctuation, pixels, audio snippets, etc.\n Tokens are also the units that determine costs and usage limits for AI services.\n Unnecessary words in requests add to the cost of AI services. Longer responses also cost more.\n Some simple tips can help you use fewer tokens and save money on your AI usage.\n\n# What is an AI token?\n\nAI tokens are the basic data units that AI models process. Tokens can include words and punctuation within text strings, pixels in an image, or audio snippets. [...] The process of parsing input data into tokens for further processing is called tokenization. Tokens are also a “currency”—a unit of measure that determine costs and usage limits for AI services.\n\nPerhaps the easiest way to think about tokens is that they’re the pieces your text is broken into so the AI can understand it.\n\nThey’re akin to words, but not exactly:\n\n Sometimes a token is a whole word.\n Sometimes a token is just part of a word.\n Even spaces and punctuation can be tokens.\n\nFor example:\n\n The sentence “I love AI.” → could be four tokens: [“I”, “love”, “AI”, “.”]\n “Artificial Intelligence is amazing.” → could be five or more tokens, depending on how the API parses it.",
+      "score": 1.0
+    },
+    {
+      "title": "How AI Companies Are Monetizing in 2026: Seats, Tokens, and the ...",
+      "url": "https://www.data-mania.com/blog/ai-monetization-seats-tokens-hybrid-models/",
+      "snippet": "This pricing model also works well when your costs closely align with token usage. For example, if you’re reselling inference from foundation models or running GPU clusters where compute costs scale with token volume, charging per token helps maintain margins ( However, for products targeting non-technical buyers or enterprise clients who need predictable budgets, pure token pricing can create significant challenges. In such cases, many companies adopt hybrid models to strike a balance between predictable revenue and cost alignment.\n\n## Model 2: Platform + Tokens (The Hybrid Model)\n\n### How the Hybrid Model Works [...] ### How the Hybrid Model Works\n\nThe hybrid model blends predictability with flexibility, offering a mix of fixed and variable pricing. Customers pay a set platform fee – usually monthly or annually – that provides access to the product, support, essential infrastructure, and core features. On top of this, they pay additional fees based on their usage, such as token consumption, credits, or other AI-specific actions that go beyond their included allowance. [...] Don’t overlook the \"token iceberg\" – internal consumption from system prompts, reasoning loops, and agent workflows can account for 50–90% of total usage in agentic products ( If you’re only tracking billable tokens, you could miss a significant chunk of your cost structure.\n\n### Metrics for Hybrid Models\n\nHybrid pricing, which combines fixed and variable components, requires tracking both streams. Monitor predictable subscription revenue (platform fees) alongside variable usage revenue (tokens or overages) [5,8]. Key metrics include:",
+      "score": 1.0
+    },
+    {
+      "title": "Explaining Tokens — the Language and Currency of AI - NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ai-tokens-explained/",
+      "snippet": "These reasoning tokens allow for better responses to complex questions, just like how a person can formulate a better answer given time to work through a problem. The corresponding increase in tokens per prompt can require over 100x more compute compared with a single inference pass on a traditional LLM — an example of test-time scaling, aka long thinking.\n\n## How Do Tokens Drive AI Economics?\n\nDuring pretraining and post-training, tokens equate to investment into intelligence, and during inference, they drive cost and revenue. So as AI applications proliferate, new principles of AI economics are emerging. [...] To serve a high volume of concurrent users, some AI services also set token limits, the maximum number of tokens per minute generated for an individual user.\n\nTokens also define the user experience for AI services. Time to first token, the latency between a user submitting a prompt and the AI model starting to respond, and inter-token or token-to-token latency, the rate at which subsequent output tokens are generated, determine how an end user experiences the output of an AI application.\n\nThere are tradeoffs involved for each metric, and the right balance is dictated by use case. [...] ## How Are Tokens Used During AI Training?\n\nTraining an AI model starts with the tokenization of the training dataset.\n\nBased on the size of the training data, the number of tokens can number in the billions or trillions — and, per the pretraining scaling law, the more tokens used for training, the better the quality of the AI model.\n\nAs an AI model is pretrained, it’s tested by being shown a sample set of tokens and asked to predict the next token. Based on whether or not its prediction is correct, the model updates itself to improve its next guess. This process is repeated until the model learns from its mistakes and reaches a target level of accuracy, known as model convergence.",
+      "score": 1.0
+    },
+    {
+      "title": "How AI Analytics is Transforming Data Processing: Agents, Tokens ...",
+      "url": "https://www.gravitee.io/blog/how-ai-analytics-is-transforming-data-processing-agents-tokens-and-beyond",
+      "snippet": "### What is token usage and why should I care about it?\n\nToken usage refers to the number of tokens (input + output) consumed when an AI agent uses an LLM like GPT. Since most AI services are billed based on tokens, tracking usage helps you understand and control cost.\n\n### How is an Agent Gateway different from a normal API Gateway?\n\nA normal API Gateway manages API traffic, security and rate-limits. An Agent Gateway adds AI-specific controls like token tracking, agent identity, tool invocation governance, and agent behaviour analytics.\n\n### Do I need to change my existing infrastructure to use Gravitee Agent Mesh? [...] Real-time Insights: You might need analytics not only post-mortem but as part of the agent loop (e.g., token usage trending, cost spikes, tool invocation failures).\n\nBy embedding analytics into the AI layer, organisations can move from “did something happen?” to “why did the agent choose that tool?, how many tokens consumed?, what was the cost?, what’s the outcome?”.\n\nCheck\n\n## What is an Agent Gateway?\n\nAn important piece in enabling this shift is the Agent Gateway. On the Gravitee blog, you’ll find this concept explained clearly.\n\nIn brief:\n\n## Why this matters for analytics:\n\nToken Analytics: The gateway can track input/output tokens for each call, enabling cost and usage analytics.\n\nAgent Behaviour Analytics: Which agents invoke which tools? Success/failure rates? Latencies?",
+      "score": 0.999
+    },
+    {
+      "title": "AI tokens: How to navigate AI's new spend dynamics | Deloitte Insights",
+      "url": "https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-tokens-how-to-navigate-spend-dynamics.html",
+      "snippet": "This disconnect is not just a financial headache—it’s a strategic reckoning. For many organizations, the imperative to adopt AI is less about immediate returns and more about staving off existential threats or maintaining competitive parity. In these cases, the focus must shift from whether AI delivers value to how its economics are measured and managed for organizations to thrive in a structurally different environment. As such, enterprise technology, business leaders face a new economic reality, defined not necessarily by traditional metrics but rather the volatile, nonlinear dynamics of token-based AI consumption.\n\n## Tokens: The true currency of AI",
+      "score": 0.999
+    }
+  ],
+  "images": [],
+  "answer": "AI token monitoring tracks the number of tokens used in AI requests to manage costs and usage limits. Tokens determine both the cost and performance of AI services. Companies use token analytics to optimize AI usage and control expenses.",
+  "routing": {
+    "auto_routed": false,
+    "provider": "tavily"
+  },
+  "_cache_timestamp": 1774704294.7585707,
+  "_cache_key": "0092244134d863e52494e989af4d90b1",
+  "_cache_query": "explain how AI token monitoring works in companies",
+  "_cache_provider": "tavily",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

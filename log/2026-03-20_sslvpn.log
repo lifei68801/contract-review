@@ -1,0 +1,55 @@
+[2026-03-20 19:00:25][IPTUNCTRL_MODULE][1293889][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:04:15][IPTUNCTRL_MODULE][1364198][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:05:14][LoginService][1364198][waring] - 用户未登录
+[2026-03-20 22:05:14][VpnService][1364198][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:05:14][VpnService][1364198][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:11:59][IPTUNCTRL_MODULE][1368428][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:12:02][LoginService][1368428][waring] - 用户未登录
+[2026-03-20 22:12:02][VpnService][1368428][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:12:02][VpnService][1368428][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:18:29][LoginService][1293889][waring] - 用户未登录
+[2026-03-20 22:18:29][VpnService][1293889][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:18:29][VpnService][1293889][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:31:45][IPTUNCTRL_MODULE][1379437][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:31:45][LoginService][1379437][info] - LoginThread 线程开始...
+[2026-03-20 22:31:45][IPTUNCTRL_MODULE][1379437][info] - load_config,fileName:,title:DEFAULT,key:LANGUAGE,value:,error:2
+[2026-03-20 22:31:45][LoginService][1379437][info] - current language:
+[2026-03-20 22:31:45][IPTUNCTRL_MODULE][1379437][info] - Status_Function,status:1
+[2026-03-20 22:31:45][LoginService][1379437][info] - 用户<lifei>开始登录...
+[2026-03-20 22:31:45][LoginService][1379437][info] - 正在解析服务器地址:43.243.136.114
+[2026-03-20 22:31:45][IPTUNCTRL_MODULE][1379437][info] - Msg_Function,msg:正在解析服务器地址...
+[2026-03-20 22:31:45][LoginService][1379437][info] - 正则校验域名:43.243.136.114
+[2026-03-20 22:31:45][LoginService][1379437][error] - 服务器地址格式错误:43.243.136.114
+[2026-03-20 22:31:45][IPTUNCTRL_MODULE][1379437][info] - Msg_Function,msg:服务器地址格式错误
+[2026-03-20 22:31:45][IPTUNCTRL_MODULE][1379437][info] - Status_Function,status:0
+[2026-03-20 22:31:45][VpnService][1379437][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:32:15][LoginService][1379437][waring] - 用户未登录
+[2026-03-20 22:32:15][VpnService][1379437][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:32:15][VpnService][1379437][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:32:34][IPTUNCTRL_MODULE][1379634][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:33:34][LoginService][1379634][waring] - 用户未登录
+[2026-03-20 22:33:34][VpnService][1379634][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:33:34][VpnService][1379634][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:33:41][IPTUNCTRL_MODULE][1380027][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:34:41][LoginService][1380027][waring] - 用户未登录
+[2026-03-20 22:34:41][VpnService][1380027][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:34:41][VpnService][1380027][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:34:47][IPTUNCTRL_MODULE][1380543][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:35:47][LoginService][1380543][waring] - 用户未登录
+[2026-03-20 22:35:47][VpnService][1380543][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:35:47][VpnService][1380543][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:35:50][IPTUNCTRL_MODULE][1380950][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:36:50][IPTUNCTRL_MODULE][1381321][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:37:47][IPTUNCTRL_MODULE][1382487][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:37:50][LoginService][1380950][waring] - 用户未登录
+[2026-03-20 22:37:50][VpnService][1380950][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:37:50][VpnService][1380950][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:45:10][IPTUNCTRL_MODULE][1389203][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:48:12][IPTUNCTRL_MODULE][1392179][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 22:48:42][LoginService][1392179][waring] - 用户未登录
+[2026-03-20 22:48:42][VpnService][1392179][error] - Vpn网卡未启动，无需停止
+[2026-03-20 22:48:42][VpnService][1392179][error] - Vpn网卡未启动，无需停止
+[2026-03-20 23:14:28][IPTUNCTRL_MODULE][1404279][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-20 23:14:45][LoginService][1404279][waring] - 用户未登录
+[2026-03-20 23:14:45][VpnService][1404279][error] - Vpn网卡未启动，无需停止
+[2026-03-20 23:14:45][VpnService][1404279][error] - Vpn网卡未启动，无需停止

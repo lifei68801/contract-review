@@ -1,0 +1,91 @@
+{
+  "provider": "serper",
+  "query": "Hacker News front page AI trending today 2026",
+  "results": [
+    {
+      "title": "Ask HN: What are your predictions for 2026? - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=46297348",
+      "snippet": "OpenAI will be on the front page of Reddit for how bad/annoying its ads are ... AI will start to be seen as a 'boomer' and a low-quality term. Manual ...",
+      "score": 1.0,
+      "date": null
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (March 2026) - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47303111",
+      "snippet": "I changed gears and moved into the video games industry at the end of 2021. I started developing a city builder called Metropolis 1998 [1], ...",
+      "score": 0.9,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "2026-02-26 front - Hacker News",
+      "url": "https://news.ycombinator.com/front?day=2026-02-26",
+      "snippet": "Hacker News · 1. Statement from Dario Amodei on our discussions with the Department of War (anthropic.com) · 2. Google API keys weren't secrets, ...",
+      "score": 0.8,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "2026-03-29 front - Hacker News",
+      "url": "https://news.ycombinator.com/front",
+      "snippet": "7. Police used AI facial recognition to wrongly arrest TN woman for crimes in ND (cnn.com).",
+      "score": 0.7,
+      "date": null
+    },
+    {
+      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the ...",
+      "url": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+      "snippet": "Bitdefender webinar uses real-world research to identify which 2026 cybersecurity predictions matter, covering ransomware and AI risks.",
+      "score": 0.6,
+      "date": "Jan 9, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "OpenAI will be on the front page of Reddit for how bad/annoying its ads are ... AI will start to be seen as a 'boomer' and a low-quality term. Manual ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.704,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 8.75,
+      "tavily": 1.0
+    }
+  },
+  "_cache_timestamp": 1774843239.9127162,
+  "_cache_key": "192e8715d563138abe11fe21083aafc1",
+  "_cache_query": "Hacker News front page AI trending today 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

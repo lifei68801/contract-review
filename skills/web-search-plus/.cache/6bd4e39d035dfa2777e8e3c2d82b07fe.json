@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Anthropic labor market AI displacement research March 2026",
+  "results": [
+    {
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "snippet": "We introduce a new measure of AI displacement risk, observed exposure, that combines theoretical LLM capability and real-world usage data, ...",
+      "score": 1.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Anthropic Economic Index report: Learning curves",
+      "url": "https://www.anthropic.com/research/economic-index-march-2026-report",
+      "snippet": "The Anthropic Economic Index uses our privacy-preserving data analysis system to track how Claude is being used across the economy.",
+      "score": 0.9,
+      "date": "6 days ago"
+    },
+    {
+      "title": "Anthropic just mapped out which jobs AI could potentially replace. A ...",
+      "url": "https://fortune.com/2026/03/06/ai-job-losses-report-anthropic-research-great-recession-for-white-collar-workers/",
+      "snippet": "Still, the Anthropic researchers suggest that slight decrease may signal the new reality of employment in the AI age as it echoes other research ...",
+      "score": 0.8,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Anthropic: AI's influence over the labor market is only beginning to ...",
+      "url": "https://finance.yahoo.com/news/anthropic-ai-influence-over-labor-110500564.html",
+      "snippet": "The four sectors most exposed to artificial intelligence displacement risk are Computer & Mathematical, Office & Administrative Support, ...",
+      "score": 0.7,
+      "date": "Mar 13, 2026"
+    },
+    {
+      "title": "Anthropic's Study Does Not Measure AI's Labor-Market Impacts",
+      "url": "https://www.forbes.com/sites/hamiltonmann/2026/03/08/anthropics-study-does-not-measure-ais-labor-market-impacts/",
+      "snippet": "Anthropic recently published a study presented as evidence about AI's early labor-market impacts. Yet the paper's empirical core comes from ...",
+      "score": 0.6,
+      "date": null
+    }
+  ],
+  "images": [],
+  "answer": "We introduce a new measure of AI displacement risk, observed exposure, that combines theoretical LLM capability and real-world usage data, ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774836060.8912907,
+  "_cache_key": "6bd4e39d035dfa2777e8e3c2d82b07fe",
+  "_cache_query": "Anthropic labor market AI displacement research March 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

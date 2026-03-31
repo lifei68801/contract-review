@@ -1,0 +1,71 @@
+{
+  "provider": "tavily",
+  "query": "site:clawhub.ai skills most downloaded",
+  "results": [
+    {
+      "title": "Top ClawHub Skills",
+      "url": "https://clawhub.ai/skills/topclawhubskills",
+      "snippet": "# Top ClawHub Skills\n\nDiscover the most popular, newest, and security-certified ClawHub skills via live API data.\n\nLike a lobster shell, security has layers — review code before you run it.\n\n### License\n\n## SKILL.md\n\n# Top ClawHub Skills\n\nYou have access to a live API that provides real-time data about ClawHub skills — downloads, stars, newest additions, and security certification status.\n\n## API Base URL\n\n`\n\n## Available Endpoints\n\n### 1. Top Downloads\n\n`GET /api/top-downloads?limit=N`\n\nReturns the most downloaded skills, sorted by download count descending. Default limit: 20, max: 100.\n\n### 2. Top Stars\n\n`GET /api/top-stars?limit=N`\n\nReturns the most starred skills, sorted by star count descending.\n\n### 3. Newest Skills\n\n`GET /api/newest?limit=N` [...] The `/api/stats` endpoint returns:\n\n`/api/stats`\n`{\n\"ok\": true,\n\"data\": {\n\"total_skills\": 850,\n\"total_downloads\": 2500000,\n\"total_stars\": 45000,\n\"certified_skills\": 780,\n\"deleted_skills\": 186,\n\"newest_skill\": {\n\"slug\": \"latest-skill\",\n\"display_name\": \"Latest Skill\",\n\"created_at\": \"2026-02-16T08:00:00.000Z\"\n}\n},\n\"generated_at\": \"2026-02-16T12:00:00.000Z\"\n}`\n\n## How to Use\n\n## Formatting Rules\n\nWhen presenting results to the user:\n\n`1.2K`\n`1.5M`\n`42`\n`Certified`\n`clawhub_url`\n\n### Example Table Output\n\n| # | Skill | Author | Downloads | Stars | Certified |\n ---  ---  --- |\n| 1 | Skill Name | @author | 45.2K | 312 | Certified |\n| 2 | Another Skill | @dev | 38.1K | 289 | Certified |\n| 3 | Third Skill | @creator | 22.7K | 156 |  |\n\n## Security Messaging [...] ### 3. Newest Skills\n\n`GET /api/newest?limit=N`\n\nReturns the most recently published skills, sorted by creation date descending.\n\n### 4. Security-Certified Skills\n\n`GET /api/certified?limit=N`\n\nReturns only skills that have passed security screening (not flagged as suspicious and not malware-blocked). Sorted by downloads descending.\n\n### 5. Deleted Skills\n\n`GET /api/deleted?limit=N`\n\nReturns skills that were previously listed on ClawHub but now return \"Skill not found.\" — preserved for historical reference. Sorted by downloads descending. Each result includes `is_deleted: true` and a `deleted_at` timestamp.\n\n`is_deleted: true`\n`deleted_at`\n\n### 6. Search\n\n`GET /api/search?q=TERM&limit=N`",
+      "score": 0.726
+    },
+    {
+      "title": "ClawHub",
+      "url": "https://clawhub.ai/",
+      "snippet": "## Popular skills\n\nMost-downloaded, non-suspicious picks. [...] Airtable, HubSpot, etc.) with managed OAuth. Use this skill when users want to... byImage 14@byungkyu ⭐ 271 · 54.6k### Mcporter Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation. byImage 15@steipete ⭐ 134 · 45.4k### Agent Browser Headless browser automation CLI optimized for AI agents with accessibility tree snapshots and ref-based element selection byImage 16@matrixy ⭐ 154 · 45.2k### Word / DOCX Create, inspect, and edit Microsoft Word documents and DOCX files with reliable styles, numbering, tracked changes, tables, sections, and compatibility check... byImage 17@ivangdavila ⭐ 134 · 33.9k### imap-smtp-email Read and send email via IMAP/SMTP. Check for new/unread messages, [...] ### self-improving-agent Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Clau... byImage 7@pskoett ⭐ 2.7k · 302k### ontology Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin... byImage 8@oswalpalash ⭐ 397 · 132k### Self-Improving + Proactive Agent Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when... byImage 9@ivangdavila ⭐ 663 · 114k### AdMapix Ad intelligence & app analytics assistant. Search ad creatives, analyze apps, view rankings, track downloads/revenue, and get",
+      "score": 0.622
+    },
+    {
+      "title": "SkillMetricScraper - ClawHub",
+      "url": "https://clawhub.ai/ademczuk/skillmetricscraper",
+      "snippet": "## Quick Trending\n\nShow what's trending from existing DB data without re-fetching:\n\n`cd \"${SKILL_ROOT}\" && python3 main.py --list-db`\n\n## Status\n\n`cd \"${SKILL_ROOT}\" && python3 main.py --list-db`\n\nShows: DB path, total snapshot rows, distinct dates, top skills by current installs.\n\n## CLI Options Reference [...] Expected output:\n\n`============================================================\nOpenClaw Skills Weekly — Full Pipeline (v4)\nWeek of Mar 01, 2026\n\nPHASE 1: Multi-Source Signal Capture (X + Reddit + HN)\nPHASE 2: ClawHub Data Pipeline\n[1/5] Discovering ClawHub skills...\n[2/5] Saving snapshot...\n[3/5] Ranking by 7-day velocity...\n[4/5] Harvesting content...\n[5/5] Generating YouTube scripts...\nDONE:\nReport: openclaw_weekly_20260301.md\nScript: openclaw_weekly_20260301_script.txt`\n\n## Snapshot Only (Daily Cron)\n\nFor daily snapshot accumulation without script generation:\n\n`cd \"${SKILL_ROOT}\" && python3 run_weekly.py --snapshot-only --skip-x`\n\nTell the user how many skills were captured and how many snapshot dates exist in the DB.\n\n## Quick Trending [...] ClawHub Security flagged this skill as suspicious. Review the scan results before using.\n\n# SkillMetricScraper\n\nOpenClaw Skills Weekly — tracks trending ClawHub skills, generates GitHubAwesome-style YouTube video scripts with two-track ranking (Movers + Rockets).\n\nLike a lobster shell, security has layers — review code before you run it.\n\n### License\n\n### Runtime requirements\n\n## SKILL.md\n\n# OpenClaw Skills Weekly\n\nAutomated pipeline for tracking trending ClawHub skills and generating YouTube-ready video scripts in the GitHubAwesome format.\n\n## What This Skill Does\n\n`GET \n`.md`\n`.txt`\n\n## Commands\n\nParse the user's request and route to the correct mode:",
+      "score": 0.284
+    },
+    {
+      "title": "Last30days - ClawHub",
+      "url": "https://clawhub.ai/mvanhorn/last30days-official",
+      "snippet": "GOOD synthesis for \"best Claude Code skills\":\n\n\"Most mentioned skills: /commit (5 mentions), remotion skill (4x), git-worktree (3x), /pr (3x). The Remotion announcement got 16K likes on X.\"\n\n### For all QUERY\\_TYPEs\n\nIdentify from the ACTUAL RESEARCH OUTPUT:\n\n## THEN: Show Summary + Invite Vision\n\nDisplay in this EXACT sequence:\n\nFIRST - What I learned (based on QUERY\\_TYPE):\n\nIf RECOMMENDATIONS - Show specific things mentioned with sources:\n\n`🏆 Most mentioned:\n[Tool Name] - {n}x mentions\nUse Case: [what it does]\nSources: @handle1, @handle2, r/sub, blog.com\n[Tool Name] - {n}x mentions\nUse Case: [what it does]\nSources: @handle3, r/sub2, Complex\nNotable mentions: [other specific things with 1-2 mentions]`\n\nCRITICAL for RECOMMENDATIONS: [...] ## FIRST: Internalize the Research\n\nCRITICAL: Ground your synthesis in the ACTUAL research content, not your pre-existing knowledge.\n\nRead the research output carefully. Pay attention to:\n\nANTI-PATTERN TO AVOID: If user asks about \"clawdbot skills\" and research returns ClawdBot content (self-hosted AI agent), do NOT synthesize this as \"Claude Code skills\" just because both involve \"skills\". Read what the research actually says.\n\n### If QUERY\\_TYPE = RECOMMENDATIONS\n\nCRITICAL: Extract SPECIFIC NAMES, not generic patterns.\n\nWhen user asks \"best X\" or \"top X\", they want a LIST of specific things:\n\nBAD synthesis for \"best Claude Code skills\":\n\n\"Skills are powerful. Keep them under 500 lines. Use progressive disclosure.\"\n\nGOOD synthesis for \"best Claude Code skills\":",
+      "score": 0.176
+    },
+    {
+      "title": "Last30days Skill - ClawHub",
+      "url": "https://clawhub.ai/johnsondevops/last30days-skill",
+      "snippet": "GOOD synthesis for \"best Claude Code skills\":\n\n\"Most mentioned skills: /commit (5 mentions), remotion skill (4x), git-worktree (3x), /pr (3x). The Remotion announcement got 16K likes on X.\"\n\n### For all QUERY\\_TYPEs\n\nIdentify from the ACTUAL RESEARCH OUTPUT:\n\n## THEN: Show Summary + Invite Vision\n\nDisplay in this EXACT sequence:\n\nFIRST - What I learned (based on QUERY\\_TYPE):\n\nIf RECOMMENDATIONS - Show specific things mentioned with sources:\n\n`🏆 Most mentioned:\n[Tool Name] - {n}x mentions\nUse Case: [what it does]\nSources: @handle1, @handle2, r/sub, blog.com\n[Tool Name] - {n}x mentions\nUse Case: [what it does]\nSources: @handle3, r/sub2, Complex\nNotable mentions: [other specific things with 1-2 mentions]`\n\nCRITICAL for RECOMMENDATIONS: [...] ## FIRST: Internalize the Research\n\nCRITICAL: Ground your synthesis in the ACTUAL research content, not your pre-existing knowledge.\n\nRead the research output carefully. Pay attention to:\n\nANTI-PATTERN TO AVOID: If user asks about \"clawdbot skills\" and research returns ClawdBot content (self-hosted AI agent), do NOT synthesize this as \"Claude Code skills\" just because both involve \"skills\". Read what the research actually says.\n\n### If QUERY\\_TYPE = RECOMMENDATIONS\n\nCRITICAL: Extract SPECIFIC NAMES, not generic patterns.\n\nWhen user asks \"best X\" or \"top X\", they want a LIST of specific things:\n\nBAD synthesis for \"best Claude Code skills\":\n\n\"Skills are powerful. Keep them under 500 lines. Use progressive disclosure.\"\n\nGOOD synthesis for \"best Claude Code skills\": [...] After delivering a prompt, offer to write more:\n\nWant another prompt? Just tell me what you're creating next.\n\n## CONTEXT MEMORY\n\nFor the rest of this conversation, remember:\n\nCRITICAL: After research is complete, you are now an EXPERT on this topic.\n\nWhen the user asks follow-up questions:\n\nOnly do new research if the user explicitly asks about a DIFFERENT topic.\n\n## Output Summary Footer (After Each Prompt)\n\nAfter delivering a prompt, end with:\n\n`---\n📚 Expert in: {TOPIC} for {TARGET_TOOL}\n📊 Based on: {n} Reddit threads ({sum} upvotes) + {n} X posts ({sum} likes) + {n} YouTube videos ({sum} views) + {n} web pages\nWant another prompt? Just tell me what you're creating next.`\n\n## Security & Permissions\n\nWhat this skill does:\n\n`api.openai.com`\n`api.x.ai`\n`yt-dlp`\n`reddit.com`",
+      "score": 0.173
+    }
+  ],
+  "images": [],
+  "answer": "The most downloaded ClawHub skills are self-improving-agent, ontology, and AdMapix. These skills have high download counts and are popular among users.",
+  "routing": {
+    "auto_routed": true,
+    "provider": "tavily",
+    "confidence": 0.0,
+    "confidence_level": "low",
+    "reason": "no_signals_matched",
+    "top_signals": [],
+    "scores": {
+      "serper": 0.0,
+      "tavily": 0.0
+    }
+  },
+  "_cache_timestamp": 1774785785.8395777,
+  "_cache_key": "326bb5e653c817fbda2f2fbb6410e2c2",
+  "_cache_query": "site:clawhub.ai skills most downloaded",
+  "_cache_provider": "tavily",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}
