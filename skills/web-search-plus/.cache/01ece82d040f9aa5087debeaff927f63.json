@@ -1,0 +1,82 @@
+{
+  "provider": "serper",
+  "query": "AI token monitoring workplace 2025",
+  "results": [
+    {
+      "title": "You've Finally Figured Out AI at Work—Now Comes the Bill - WSJ",
+      "url": "https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?gaa_at=eafs&gaa_n=AWEtsqcZvF6MN0OVLrASjU1iKuaTSTE5qwd-rSac_2URkm6kZwF8lVLhv31E&gaa_ts=69c7d9ab&gaa_sig=wewyZ1N7Sr9aq-WjwK5rgykauGeBg16B4MN5mP92wa1s49WP5Om8utfL6WKyPAKW5-A58jJ7ftBW8nOyHLEOxQ%3D%3D",
+      "snippet": "Companies that now regularly use artificial intelligence are starting to track their workers' use of tokens, AI's unit of measurement.",
+      "score": 1.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "AI in the workplace: A report for 2025 - McKinsey",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work",
+      "snippet": "Almost all companies invest in AI, but just 1% believe they are at maturity. Our new report looks at how AI is being used in the workplace ...",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "the wall street journal reported that companies have ... - Instagram",
+      "url": "https://www.instagram.com/reel/DWG3kJAjRDN/",
+      "snippet": "... worker's ai usage is actually worth the money . companies are now tracking how many ai tokens their employees use every single day measuring ...",
+      "score": 0.8,
+      "date": "Mar 20, 2026"
+    },
+    {
+      "title": "Frequent Use of AI in the Workplace Continued to Rise in Q4",
+      "url": "https://www.gallup.com/workplace/701195/frequent-workplace-continued-rise.aspx",
+      "snippet": "Modest gains in frequent AI use were seen in Q4 2025, on par with the growth seen in Q3, but the percentage of employees who say they use AI ...",
+      "score": 0.7,
+      "date": "Jan 25, 2026"
+    },
+    {
+      "title": "AI tokens: How to navigate AI's new spend dynamics | Deloitte Insights",
+      "url": "https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-tokens-how-to-navigate-spend-dynamics.html",
+      "snippet": "Organizations should manage AI as an economic system driven by unpredictable, token-based costs, requiring disciplined infrastructure ...",
+      "score": 0.6,
+      "date": "Jan 19, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "Companies that now regularly use artificial intelligence are starting to track their workers' use of tokens, AI's unit of measurement.",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.508,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2025",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7
+    }
+  },
+  "_cache_timestamp": 1774704167.815001,
+  "_cache_key": "01ece82d040f9aa5087debeaff927f63",
+  "_cache_query": "AI token monitoring workplace 2025",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

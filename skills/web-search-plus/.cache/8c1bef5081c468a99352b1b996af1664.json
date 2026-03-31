@@ -1,0 +1,91 @@
+{
+  "provider": "serper",
+  "query": "AI technology news today March 29 2026",
+  "results": [
+    {
+      "title": "Meta Funds Gas Plants to Power Mega Louisiana Data Center",
+      "url": "https://www.youtube.com/watch?v=5zRH6HvMKyw",
+      "snippet": "... Technology\" is our daily news program focused exclusively on technology, innovation and the future of business hosted by Ed Ludlow from San ...",
+      "score": 1.0,
+      "date": "1 day ago"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for March 2026 | Radical Data ...",
+      "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
+      "snippet": "Today, Adaption Labs, Inc. is introducing the Adaption Research Grant Program. The program provides academic researchers with complimentary ...",
+      "score": 0.9,
+      "date": "2 days ago"
+    },
+    {
+      "title": "Viral robot appearances on the rise as White House hosts humanoid ...",
+      "url": "https://www.nbcnews.com/video/viral-robot-appearances-on-the-rise-as-white-house-hosts-humanoid-robot-260082245672",
+      "snippet": "Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit. NBC News ... March 25, 2026 ...",
+      "score": 0.8,
+      "date": "3 days ago"
+    },
+    {
+      "title": "AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "snippet": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global ...",
+      "score": 0.7,
+      "date": null
+    },
+    {
+      "title": "Neuralink Update — March 2026 - YouTube",
+      "url": "https://www.youtube.com/watch?v=9ib62IA0_Yc",
+      "snippet": "... AI voice audio via ElevenLabs: https://try.elevenlabs.io/xe894d3yv35h Generate AI videos via Kling: Referral code: 7BHBWXJ9BHWV Opinions are ...",
+      "score": 0.6,
+      "date": "1 day ago"
+    }
+  ],
+  "images": [],
+  "answer": "... Technology\" is our daily news program focused exclusively on technology, innovation and the future of business hosted by Ed Ludlow from San ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.704,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 8.75,
+      "tavily": 1.0
+    }
+  },
+  "_cache_timestamp": 1774756846.9598541,
+  "_cache_key": "8c1bef5081c468a99352b1b996af1664",
+  "_cache_query": "AI technology news today March 29 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

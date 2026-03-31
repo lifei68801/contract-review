@@ -1,0 +1,104 @@
+{
+  "provider": "serper",
+  "query": "AI healthcare medical breakthrough 2026 drug discovery",
+  "results": [
+    {
+      "title": "Medical AI Models Transforming Healthcare | 2026 Guide - Deepgram",
+      "url": "https://deepgram.com/learn/top-medical-ai-models-2026",
+      "snippet": "From AlphaFold's Nobel Prize to the first AI-designed drug in clinical trials, discover the medical AI models transforming drug discovery,",
+      "score": 1.0,
+      "date": "4 days ago"
+    },
+    {
+      "title": "AI-Driven Drug Development: Top Biotechs to Watch in 2026 - News",
+      "url": "https://news.biobuzz.io/2026/03/23/10-ai-native-biotechs-to-watch-in-2026/",
+      "snippet": "Discover how AI is revolutionizing drug development, with 10 innovative biotechs to watch by 2026 shaping the future of medicine.",
+      "score": 0.9,
+      "date": "5 days ago"
+    },
+    {
+      "title": "Top 10 AI Medical Breakthroughs 2026: Revolutionizing Healthcare",
+      "url": "https://vertu.com/guides/ai-medical-breakthroughs-2026/?srsltid=AfmBOoo1OR4VcdxN7ObYHZK0bsNLNPY7kEdNFRUKcjR_Vcsi9NxKJKRi",
+      "snippet": "1. AI-Powered Drug Discovery. AI algorithms dramatically accelerate the identification of potential drug candidates, predicting efficacy and ...",
+      "score": 0.8,
+      "date": "Mar 9, 2026"
+    },
+    {
+      "title": "AI medical breakthroughs might happen sooner than you think",
+      "url": "https://www.linkedin.com/pulse/ai-medical-breakthroughs-might-happen-sooner-than-you-reid-hoffman-swl5c",
+      "snippet": "The advancements in AI and molecular research are truly inspiring and could revolutionize medicine. It's exciting to think about the potential ...",
+      "score": 0.7,
+      "date": "Feb 25, 2026"
+    },
+    {
+      "title": "AI in drug discovery: predictions for 2026 - Drug Target Review",
+      "url": "https://www.drugtargetreview.com/article/192962/ai-in-drug-discovery-predictions-for-2026/",
+      "snippet": "As AI drug discovery enters 2026, the industry faces a pivotal year of clinical tests, regulatory clarity, and market consolidation.",
+      "score": 0.6,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "The 2026 AI power shift | Drug Discovery News",
+      "url": "https://www.drugdiscoverynews.com/the-2026-ai-power-shift-17020",
+      "snippet": "A staggering 80 percent of organizations plan to increase their AI budgets in the next 12 months, with 23 percent expecting to double their ...",
+      "score": 0.5,
+      "date": "Jan 26, 2026"
+    },
+    {
+      "title": "Here's how AI is reshaping drug discovery | World Economic Forum",
+      "url": "https://www.weforum.org/stories/2026/01/how-ai-is-reshaping-drug-discovery/",
+      "snippet": "AI could help make some of the most difficult steps in drug discovery faster and smarter, including identifying disease targets, generating new ...",
+      "score": 0.4,
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "How AI Is Compressing 10-Year Drug Discovery Timelines to 18 ...",
+      "url": "https://www.aimagicx.com/blog/ai-drug-discovery-biotech-revolution-2026",
+      "snippet": "In 2026, AI-driven drug discovery platforms are identifying viable drug candidates in months instead of years. Insilico Medicine brought its AI- ...",
+      "score": 0.3,
+      "date": "6 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "From AlphaFold's Nobel Prize to the first AI-designed drug in clinical trials, discover the medical AI models transforming drug discovery,",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774738909.0134685,
+  "_cache_key": "7dafc9c0c52aa06c5881ab56841b7896",
+  "_cache_query": "AI healthcare medical breakthrough 2026 drug discovery",
+  "_cache_provider": "serper",
+  "_cache_max_results": 8,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

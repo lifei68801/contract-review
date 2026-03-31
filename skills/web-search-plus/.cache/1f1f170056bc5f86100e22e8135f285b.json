@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "techcrunch.com AI March 30 2026",
+  "results": [
+    {
+      "title": "AI startups are eating the venture industry and the returns, so far, are ...",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "snippet": "Save up to $300 or 30% to TechCrunch Founder Summit. 1,000+ founders and investors come together at TechCrunch Founder Summit 2026 for a full ...",
+      "score": 1.0,
+      "date": "Mar 20, 2026"
+    },
+    {
+      "title": "March 2026 - TechCrunch",
+      "url": "https://techcrunch.com/2026/03/",
+      "snippet": "VCs are betting billions on AI's next wave, so why is OpenAI killing Sora? ... April 30. San Francisco, CA. StrictlyVC kicks off the year in SF. Get in the ...",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "16 of the most interesting startups from YC W26 Demo Day",
+      "url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
+      "snippet": "AI was once again the buzzword for this latest batch of YC Demo Day companies. Nearly 190 companies participated in Y Combinator's Winter ...",
+      "score": 0.8,
+      "date": "3 days ago"
+    },
+    {
+      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+      "snippet": "Mercor competitor Deccan AI raises $25M, sources experts from India. Jagmeet Singh. 5:30 PM PDT · March 25, 2026.",
+      "score": 0.7,
+      "date": "4 days ago"
+    },
+    {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "snippet": "OpenAI shuts down Sora while Meta gets shut out in court. Theresa Loconsolo. 6:30 AM PDT · March 27, 2026 ... TechCrunch AI. TechCrunch's AI ...",
+      "score": 0.6,
+      "date": "3 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "Save up to $300 or 30% to TechCrunch Founder Summit. 1,000+ founders and investors come together at TechCrunch Founder Summit 2026 for a full ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774836063.4819746,
+  "_cache_key": "1f1f170056bc5f86100e22e8135f285b",
+  "_cache_query": "techcrunch.com AI March 30 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

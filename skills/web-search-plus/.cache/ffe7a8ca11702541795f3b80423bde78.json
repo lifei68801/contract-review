@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Claude 90% businesses choose Anthropic new Ramp subscription data 2026",
+  "results": [
+    {
+      "title": "Ramp AI Index March 2026 update",
+      "url": "https://ramp.com/velocity/ai-index-march-2026",
+      "snippet": "Anthropic is still on a tear, with nearly one in four businesses on Ramp paying for Claude compared to one in 25 a year ago.",
+      "score": 1.0,
+      "date": "Mar 11, 2026"
+    },
+    {
+      "title": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "snippet": "Data through early March confirm that subscriber growth is continuing. (Data is available with a two-week delay.) Claude weekly new consumer ...",
+      "score": 0.9,
+      "date": "1 day ago"
+    },
+    {
+      "title": "anthropic overtakes openai in market share - Facebook",
+      "url": "https://www.facebook.com/groups/evolutionunleashedai/posts/25923124230641983/",
+      "snippet": "OpenAI's Troubles Grow Anthropic has overtaken OpenAI with Claude now the preferred tool for businesses. From just a few percent a year ago, it ...",
+      "score": 0.8,
+      "date": "Mar 3, 2026"
+    },
+    {
+      "title": "The AI Digest: March 11, 2026 - Ramp",
+      "url": "https://ramp.com/velocity/the-ai-digest-march-11-2026",
+      "snippet": "Anthropic introduced Claude Marketplace, allowing enterprise customers to apply their existing Anthropic spending commitments to Claude ...",
+      "score": 0.7,
+      "date": "Mar 11, 2026"
+    },
+    {
+      "title": "Anthropic went from $9 billion ARR at the end of 2025 to over $19 ...",
+      "url": "https://x.com/thealexbanks/status/2034273131796336703",
+      "snippet": "claude is becoming the default AI for businesses. from Ramp's March 2026 AI Index: → Anthropic wins 70% of head-to-head matchups against ...",
+      "score": 0.6,
+      "date": "Mar 18, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "Anthropic is still on a tear, with nearly one in four businesses on Ramp paying for Claude compared to one in 25 a year ago.",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774825340.120988,
+  "_cache_key": "ffe7a8ca11702541795f3b80423bde78",
+  "_cache_query": "Claude 90% businesses choose Anthropic new Ramp subscription data 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "3:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

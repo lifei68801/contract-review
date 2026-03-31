@@ -1,0 +1,21 @@
+[2026-03-21 08:03:18][LoginService][1382487][waring] - 用户未登录
+[2026-03-21 08:03:18][VpnService][1382487][error] - Vpn网卡未启动，无需停止
+[2026-03-21 08:03:18][VpnService][1382487][error] - Vpn网卡未启动，无需停止
+[2026-03-21 09:28:17][IPTUNCTRL_MODULE][1596811][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-21 09:29:29][IPTUNCTRL_MODULE][1599119][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-21 09:30:46][IPTUNCTRL_MODULE][1602047][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-21 09:31:31][IPTUNCTRL_MODULE][1602846][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-21 09:32:03][IPTUNCTRL_MODULE][1603591][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-21 11:40:06][IPTUNCTRL_MODULE][1647137][info] - ini_log,log_init finished!Current application version:3.3.0
+[2026-03-21 11:40:06][LoginService][1647137][info] - LoginThread 线程开始...
+[2026-03-21 11:40:06][IPTUNCTRL_MODULE][1647137][info] - load_config,fileName:,title:DEFAULT,key:LANGUAGE,value:,error:2
+[2026-03-21 11:40:06][LoginService][1647137][info] - current language:
+[2026-03-21 11:40:06][IPTUNCTRL_MODULE][1647137][info] - Status_Function,status:1
+[2026-03-21 11:40:06][LoginService][1647137][info] - 用户<lifei>开始登录...
+[2026-03-21 11:40:06][LoginService][1647137][info] - 正在解析服务器地址:43.243.136.114
+[2026-03-21 11:40:06][IPTUNCTRL_MODULE][1647137][info] - Msg_Function,msg:正在解析服务器地址...
+[2026-03-21 11:40:06][LoginService][1647137][info] - 正则校验域名:43.243.136.114
+[2026-03-21 11:40:06][LoginService][1647137][error] - 服务器地址格式错误:43.243.136.114
+[2026-03-21 11:40:06][IPTUNCTRL_MODULE][1647137][info] - Msg_Function,msg:服务器地址格式错误
+[2026-03-21 11:40:06][IPTUNCTRL_MODULE][1647137][info] - Status_Function,status:0
+[2026-03-21 11:40:06][VpnService][1647137][error] - Vpn网卡未启动，无需停止

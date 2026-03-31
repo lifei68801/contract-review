@@ -1,0 +1,65 @@
+AI Builders Digest — 2026年3月31日
+
+## X / TWITTER
+
+### Swyx
+Swyx分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/swyx/status/2033047808648106402
+
+### Peter Yang
+Peter Yang分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/petergyang/status/2033241918562513303
+
+### Nan Yu
+Nan Yu分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/thenanyu/status/2033145922339721456
+
+### Thariq
+Thariq分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/trq212/status/2033240602079563925
+
+### Amjad Masad
+Amjad Masad分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/amasad/status/2033103499840434607
+
+### Aaron Levie
+Box CEO Aaron Levie分析了AI对就业的复杂影响，指出AI自动化可能增加招聘和提高工资，这取决于消费者需求的弹性和工作中AI暴露的任务数量。
+https://x.com/levie/status/2033332698404851860
+
+### Garry Tan
+Garry Tan分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/garrytan/status/2033333954598547872
+
+### Matt Turck
+Matt Turck分享了一个有趣的趋势：产品路线图长度从2022年的1年缩短到2024年的6个月，再到2026年的1周。这反映了AI时代产品迭代速度的显著加快。
+https://x.com/mattturck/status/2033293364360052946
+
+### Zara Zhang
+Zara Zhang分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/zarazhangrui/status/2033076228044067197
+
+### Nikunj Kothari
+Nikunj Kothari分享了关于产品开发和AI工具使用的见解，包括对AI时代工作方式变化的观察和对未来技术趋势的思考。
+https://x.com/nikunj/status/2033385092480168056
+
+### Peter Steinberger
+OpenClaw开发者Peter Steinberger展示了OpenClaw的实际应用，包括自动清理Twitter垃圾信息的定时任务，以及MCP支持的功能，体现了AI在自动化日常任务中的强大能力。
+https://x.com/steipete/status/2033220404555526154
+
+### Dan Shipper
+Every CEO Dan Shipper高度评价了autoresearch，认为它体现了"苦涩教训"的理念：放弃复杂的智能体基础设施，设计最简单的系统来用更多token解决问题。
+https://x.com/danshipper/status/2033368834946768919
+
+### Aditya Agarwal
+South Park Commons合伙人Aditya Agarwal观察到，被AI赋能的知识工作者正在享受大量乐趣，这反映了在更高抽象层次解决有趣问题带来的心流体验。
+https://x.com/adityaag/status/2033184840435314858
+
+## OFFICIAL BLOGS
+
+No new blog posts this period.
+
+## PODCASTS
+
+No new podcast episodes this period.
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders

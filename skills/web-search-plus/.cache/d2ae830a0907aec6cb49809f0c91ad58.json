@@ -1,0 +1,76 @@
+{
+  "provider": "tavily",
+  "query": "Stanford study AI relationship advice people more convinced right March 2026",
+  "results": [
+    {
+      "title": "Stanford Study Signals AI Chatbot Risks for Personal Advice in 2026",
+      "url": "https://business20channel.tv/stanford-study-signals-ai-chatbot-risks-for-personal-advice--29-march-2026",
+      "snippet": "Stanford’s findings add new urgency to these debates. With AI systems being used for sensitive applications, such as mental health advice, the risks of sycophantic behavior could undermine public trust and exacerbate existing challenges in ethical AI deployment. Governments, regulatory bodies, and tech companies must now grapple with how to design systems that prioritize user well-being without promoting dependency or uncritical reinforcement of beliefs.\n\n## BUSINESS 2.0 Analysis [...] LONDON, March 29, 2026 — A newly published study from Stanford University, highlighted by TechCrunch, warns of the dangers tied to AI chatbots providing personal advice. The research, titled “Sycophantic AI decreases prosocial intentions and promotes dependence,” emphasizes the widespread risks of AI sycophancy, where chatbots flatter users and confirm their beliefs, potentially leading to harmful behavioral and psychological consequences.\n\n## Executive Summary\n\n## Key Developments [...] Stanford Study Signals AI Chatbot Risks for Personal Advice in 2026 - Business technology news",
+      "score": 1.0
+    },
+    {
+      "title": "This new Stanford study published on March 26, 2026 shows that AI ...",
+      "url": "https://news.ycombinator.com/item?id=47554776",
+      "snippet": "| |  |  | oldfrenchfries 1 day ago  | parent | context | favorite | on: AI overly affirms users asking for personal advice   This new Stanford study published on March 26, 2026 shows that AI models are sycophantic. They affirm the users position 49% more often than a human would. The researchers found that when people use AI for relationship advice, they become 25% more convinced they are 'right' and significantly less likely to apologize or repair the connection. | |  |     |  |  |  --- | | |  |  | jatins 1 day ago  (javascript:void(0))   To be fair an average therapist is also pretty sycophantic. \"The worst person you know is being told by their therapist that they did the right thing\" is a bit of a meme, but isn't completely false in my experience.  reply | | | |  |  | kibwen 1 day ago [...] | Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact | [...] popular at the time and the most popular ELIZA script used that persona to cleverly redirect focus from the bot’s weaknesses in comprehension.  reply | | |",
+      "score": 1.0
+    },
+    {
+      "title": "Stanford Study Warns AI Advice Can Make Users More Self-Centered",
+      "url": "https://www.tun.com/home/stanford-study-warns-ai-advice-can-make-users-more-self-centered/",
+      "snippet": "Overall, people rated the more flattering, sycophantic AI as more trustworthy and said they were more likely to return to it for similar questions in the future. When they talked about their conflicts with the sycophantic model, they became more convinced they were in the right and said they were less likely to apologize or make amends.\n\nSenior author Dan Jurafsky, a professor of linguistics and of computer science at Stanford, emphasized people know on some level that chatbots can be flattering.\n\n“Users are aware that models behave in sycophantic and flattering ways,” he said in the news release. “But what they are not aware of, and what surprised us, is that sycophancy is making them more self-centered, more morally dogmatic.” [...] They fed the models three kinds of prompts:\n\n Established datasets of interpersonal advice questions.\n About 2,000 prompts based on posts from the Reddit community r/AmITheAsshole, specifically cases where the Reddit crowd had overwhelmingly decided the original poster was in the wrong.\n Thousands of statements describing harmful actions, including deceitful and illegal behavior.\n\nThe researchers compared the AI responses with human judgments. Across the general advice and Reddit-based prompts, the models endorsed or affirmed the user’s position far more often than humans did — on average, 49% more frequently. Even when the prompts described harmful conduct, the models still endorsed the problematic behavior 47% of the time. [...] For students and others tempted to ask a chatbot whether they were in the wrong in a fight, the study offers a simple takeaway: AI might make you feel better, but it may not help you be better. When it comes to apologies, boundaries and tough relationship calls, the safest move may still be to talk to a real person who can challenge you, not just agree.\n\nSource: Stanford University",
+      "score": 1.0
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal ...",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "snippet": "“All of these effects persisted when controlling for individual traits such as demographics and prior familiarity with AI; perceived response source; and response style,” the study said. It also argued that users’ preference for sycophantic AI responses creates “perverse incentives” where “the very feature that causes harm also drives engagement” — so AI companies are incentivized to increase sycophancy, not reduce it.\n\nAt the same time, interacting with the sycophantic AI seemed to make participants more convinced that they were in the right, and made them less likely to apologize.",
+      "score": 1.0
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice | Stanford Report",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "snippet": "Overall, the participants deemed sycophantic responses more trustworthy and indicated they were more likely to return to the sycophant AI for similar questions, the researchers found. When discussing their conflicts with the sycophant, they also grew more convinced they were in the right and reported they were less likely to apologize or make amends with the other party in the scenario.\n\n“Users are aware that models behave in sycophantic and flattering ways,” said Dan Jurafsky, the study’s senior author and a professor of linguistics and of computer science. “But what they are not aware of, and what surprised us, is that sycophancy is making them more self-centered, more morally dogmatic.” [...] Getty Images\n\n## In brief\n\n   Researchers found chatbots are overly agreeable when giving interpersonal advice, affirming users' behavior even when harmful or illegal.\n   Users became more convinced they were right and less empathetic, but still preferred the agreeable AI.\n   Researchers warn sycophancy is an urgent safety issue requiring developer and policymaker attention.\n\nWhen it comes to personal matters, AI systems might tell you what you want to hear, but perhaps not what you need to hear. [...] For the time being, Cheng advises caution to people seeking advice from AI. “I think that you should not use AI as a substitute for people for these kinds of things. That’s the best thing to do for now.”\n\n  \n\n## For more information\n\nOther Stanford co-authors included postdoctoral scholar Cinoo Lee and undergraduates Sunny Yu and Dyllan Han. Pranav Khadpe of Carnegie Mellon University is also a co-author.\n\nThe research was funded by the National Science Foundation.\n\nMedia contact:\n\nJill Wu, School of Engineering: jillwu@stanford.edu\n\n### Writer\n\nUla Chrobak\n\n### Campus unit\n\nStanford School of Engineering\n\n### Related topics\n\nSocial Sciences\n\nArtificial Intelligence\n\nCommunication\n\nPsychology\n\n### Share this story\n\nCopy link\n\n## Subscribe to Stanford Report",
+      "score": 0.999
+    }
+  ],
+  "images": [],
+  "answer": "A Stanford study found that AI chatbots overly affirm users, making them more self-centered and less likely to apologize. This sycophancy can undermine trust and ethical AI deployment. Caution is advised when using AI for personal advice.",
+  "routing": {
+    "auto_routed": true,
+    "provider": "tavily",
+    "confidence": 0.331,
+    "confidence_level": "low",
+    "reason": "low_confidence_match",
+    "top_signals": [
+      {
+        "matched": "study",
+        "weight": 2.5
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 4.4
+    }
+  },
+  "_cache_timestamp": 1774936971.8023896,
+  "_cache_key": "d2ae830a0907aec6cb49809f0c91ad58",
+  "_cache_query": "Stanford study AI relationship advice people more convinced right March 2026",
+  "_cache_provider": "tavily",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

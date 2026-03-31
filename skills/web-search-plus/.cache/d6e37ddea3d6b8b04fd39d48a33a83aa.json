@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "EU AI Act delay European Parliament vote high-risk 2027",
+  "results": [
+    {
+      "title": "MEPs support postponement of certain rules on artificial intelligence",
+      "url": "https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence",
+      "snippet": "The proposal supports postponing the activation of certain rules on high-risk artificial intelligence (AI) systems, given that key standards may ...",
+      "score": 1.0,
+      "date": "Mar 18, 2026"
+    },
+    {
+      "title": "EU Parliament Votes to Delay AI Act Deadlines and Ban Nudifier Apps",
+      "url": "https://www.trendingtopics.eu/eu-parliament-votes-to-delay-ai-act-deadlines-and-ban-nudifier-apps/",
+      "snippet": "To avoid legal uncertainty, the Members of Parliament are proposing specific new dates. 2 December 2027 for high-risk AI systems explicitly ...",
+      "score": 0.9,
+      "date": "Mar 18, 2026"
+    },
+    {
+      "title": "EU Parliament delays AI rules to 2027, backs ban on 'nudifier' apps",
+      "url": "https://euperspectives.eu/2026/03/parliament-backs-delay-ai-rules-and-support-ban-on-nudifier-apps/",
+      "snippet": "Under its position, rules for stand-alone high-risk AI systems would apply from 2 December 2027, rather than August 2026. These include systems ...",
+      "score": 0.8,
+      "date": "4 days ago"
+    },
+    {
+      "title": "EU to delay 'high risk' AI rules until 2027 after Big Tech pushback",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-delay-high-risk-ai-rules-until-2027-after-big-tech-pushback-2025-11-19/",
+      "snippet": "EU to delay 'high risk' AI rules until 2027 after Big Tech pushback · 'HIGH RISK' AI USE IN JOB APPLICATIONS, BIOMETRICS · Read Next.",
+      "score": 0.7,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "EU Proposes Extending AI Act Compliance to 2027 and 2028",
+      "url": "https://hyperight.com/new-deadlines-set-eu-proposes-extending-ai-act-compliance-to-2027-and-2028/",
+      "snippet": "The EU proposes delaying parts of EU AI Act rules until 2027 and 2028 while banning non-consensual AI imagery.",
+      "score": 0.6,
+      "date": "Mar 19, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "The proposal supports postponing the activation of certain rules on high-risk artificial intelligence (AI) systems, given that key standards may ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2027",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774857704.2420692,
+  "_cache_key": "d6e37ddea3d6b8b04fd39d48a33a83aa",
+  "_cache_query": "EU AI Act delay European Parliament vote high-risk 2027",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

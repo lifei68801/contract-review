@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "AI ethics regulation March 2026 government",
+  "results": [
+    {
+      "title": "[PDF] National Policy Framework for Artificial Intelligence - The White House",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf",
+      "snippet": "The federal government must establish a federal AI policy framework to protect. American rights, support innovation, and prevent a fragmented patchwork of state.",
+      "score": 1.0,
+      "date": null
+    },
+    {
+      "title": "White House Releases a National Policy Framework for Artificial ...",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
+      "snippet": "The White House released a National Policy Framework for Artificial Intelligence (Framework) on March 20, 2026, outlining legislative ...",
+      "score": 0.9,
+      "date": "2 days ago"
+    },
+    {
+      "title": "White House Releases National Policy Framework for Artificial ...",
+      "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260323-white-house-releases-national-policy-framework-for-artificial-intelligence",
+      "snippet": "On March 20, 2026, the White House released a National Policy Framework for Artificial Intelligence (the “Framework”), outlining policy ...",
+      "score": 0.8,
+      "date": "6 days ago"
+    },
+    {
+      "title": "Trump Administration Takes Major Steps Toward Comprehensive ...",
+      "url": "https://www.lw.com/en/insights/trump-administration-takes-major-steps-toward-comprehensive-federal-ai-regulation",
+      "snippet": "On March 20, 2026, the Trump administration issued a National Policy Framework for Artificial Intelligence (the Framework) outlining the White ...",
+      "score": 0.7,
+      "date": null
+    },
+    {
+      "title": "The White House Legislative Recommendations: National Policy ...",
+      "url": "https://www.ropesgray.com/en/insights/alerts/2026/03/the-white-house-legislative-recommendations-national-policy-framework-for-artificial-intelligence-an",
+      "snippet": "On March 20, 2026, the White House released its National Policy Framework for Artificial Intelligence (“Framework”),1 outlining legislative ...",
+      "score": 0.6,
+      "date": "2 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "The federal government must establish a federal AI policy framework to protect. American rights, support innovation, and prevent a fragmented patchwork of state.",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774836106.6469178,
+  "_cache_key": "5c60bbc42ff1288eec443fe9c30fe3a8",
+  "_cache_query": "AI ethics regulation March 2026 government",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

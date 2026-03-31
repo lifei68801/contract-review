@@ -1,0 +1,126 @@
+{
+  "provider": "serper",
+  "query": "AI news today March 30 2026",
+  "results": [
+    {
+      "title": "AI News of the Month for March 2026 - YouTube",
+      "url": "https://www.youtube.com/watch?v=WqlpNN8ztAk",
+      "snippet": "SUMMARY: Brian (@bgracely) and Brandon Whichard (@bwhichard, Software Defined Talk and Failover Media) discuss the biggest AI news stories ...",
+      "score": 1.0,
+      "date": "19 hours ago"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for March 2026 | Radical Data ...",
+      "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
+      "snippet": "Welcome to the AI News Briefs Bulletin Board, a timely new channel bringing you the latest industry insights and perspectives surrounding ...",
+      "score": 0.9,
+      "date": "3 days ago"
+    },
+    {
+      "title": "Bernie Sanders, AOC announce AI data center moratorium bill",
+      "url": "https://www.youtube.com/watch?v=W5WtaHMYlLs&vl=en",
+      "snippet": "Sen. Bernie Sanders (I-VT) and Rep. Alexandria Ocasio-Cortez (D-NY) hold a press conference to announce their \"Artificial Intelligence Data ...",
+      "score": 0.8,
+      "date": "4 days ago"
+    },
+    {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "snippet": "Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real ...",
+      "score": 0.7,
+      "date": "2 days ago"
+    },
+    {
+      "title": "What co-locating AI data centers may mean for your energy bills",
+      "url": "https://finance.yahoo.com/video/co-locating-ai-data-centers-215834713.html",
+      "snippet": "NRG Energy (NRG) CEO Larry Coben speaks with Yahoo Finance Anchor Julie Hyman at the CERAWeek 2026 conference about the energy demand of AI ...",
+      "score": 0.6,
+      "date": "6 days ago"
+    },
+    {
+      "title": "The top 30 AI stories from March 2026 - The Humans in the Loop",
+      "url": "https://www.thehumansintheloop.ai/p/the-top-30-ai-stories-from-march",
+      "snippet": "30 AI stories from March 2026: Anthropic vs the Pentagon, AI in the Iran kill chain, OpenAI's code red, and why half of teenagers use ...",
+      "score": 0.5,
+      "date": "3 days ago"
+    },
+    {
+      "title": "AI News: Gemini Is SO Much Better Now (+ NotebookLM ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=jWNlxQQ_W_Q",
+      "snippet": "This week's biggest AI updates (and rumors) you actually need to know. From a huge Gemini Live upgrade to a slick new NotebookLM feature, ...",
+      "score": 0.4,
+      "date": "1 day ago"
+    },
+    {
+      "title": "Sora is dead. Does Hollywood actually have the upper hand on AI ...",
+      "url": "https://www.instagram.com/reel/DWSV1IeDDjU/",
+      "snippet": "News and holy Open AI just killed Sora and took down a multi-billion dollar deal with Disney with it. In a complete surprise move, Open AI ...",
+      "score": 0.3,
+      "date": "5 days ago"
+    },
+    {
+      "title": "Melania Trump and A.I.-Powered Robot Arrive at White House Event",
+      "url": "https://www.nytimes.com/video/us/politics/100000010802613/melania-trump-humanoid-ai-robot-white-house.html",
+      "snippet": "The first lady, Melania Trump, entered a White House summit on educational technology alongside a humanoid robot.",
+      "score": 0.2,
+      "date": "4 days ago"
+    },
+    {
+      "title": "AI-Weekly for Tuesday, March 3, 2026 - Issue 206",
+      "url": "https://ai-weekly.ai/newsletter-03-03-2026/",
+      "snippet": "✨ The Week's News in Artificial Intelligence. A Mind Vault Solutions, Ltd. Publication. Subscribers: 48,334 ️ opt-in subscribers were sent this ...",
+      "score": 0.1,
+      "date": "Mar 2, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "SUMMARY: Brian (@bgracely) and Brandon Whichard (@bwhichard, Software Defined Talk and Failover Media) discuss the biggest AI news stories ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.704,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 8.75,
+      "tavily": 1.0
+    }
+  },
+  "_cache_timestamp": 1774832420.9915035,
+  "_cache_key": "842a76582a2cc90cc90f1cbd9b85fba5",
+  "_cache_query": "AI news today March 30 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 10,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

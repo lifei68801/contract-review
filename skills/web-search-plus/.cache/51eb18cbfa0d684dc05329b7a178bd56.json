@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "Anthropic injunction Trump defense department March 2026",
+  "results": [
+    {
+      "title": "Anthropic wins injunction against Trump administration over ...",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "snippet": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "score": 1.0,
+      "date": null
+    },
+    {
+      "title": "Judge grants Anthropic preliminary injunction but Pentagon CTO ...",
+      "url": "https://breakingdefense.com/2026/03/judge-grants-anthropic-preliminary-injunction-but-pentagon-cto-says-ban-still-stands/",
+      "snippet": "After Anthropic refused to accept new contract language allowing “all lawful use” of its Claude AI by the military, President Donald Trump in a ...",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "Anthropic Wins Injunction in Court Battle With Trump Administration",
+      "url": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351?gaa_at=eafs&gaa_n=AWEtsqdOeIbQ_hnG4m7sLoLd53v4T5BcDHiKv00Al9hSuCqJMKf_jL2peeeV&gaa_ts=69c90a10&gaa_sig=5d0g0_cyXy55c0ezeoAmy9tSSexzJG8b3MV3hwaJWLsxtsSFnfi_ammAB8D1Ftq6C_Duh1d678sQvAAIR5QuNQ%3D%3D",
+      "snippet": "A U.S. federal judge on Thursday halted the Trump administration's designation of Anthropic as a supply-chain risk, issuing a ruling that ...",
+      "score": 0.8,
+      "date": "2 days ago"
+    },
+    {
+      "title": "The INSIDER Daily digest -- March 27, 2026 | InsideDefense.com",
+      "url": "https://insidedefense.com/insider/insider-daily-digest-march-27-2026",
+      "snippet": "Federal Judge Rita Lin has granted Anthropic's request for a preliminary injunction of Defense ... Earlier this year, President Trump directed the ...",
+      "score": 0.7,
+      "date": "2 days ago"
+    },
+    {
+      "title": "Judge temporarily blocks Trump administration's Anthropic ban",
+      "url": "https://www.wets.org/npr-news/2026-03-26/judge-temporarily-blocks-trump-administrations-anthropic-ban",
+      "snippet": "The order briefly stops the government from labeling tech company Anthropic a \"supply chain risk,\" calling that \"classic First Amendment ...",
+      "score": 0.6,
+      "date": "2 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774782093.0539486,
+  "_cache_key": "51eb18cbfa0d684dc05329b7a178bd56",
+  "_cache_query": "Anthropic injunction Trump defense department March 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

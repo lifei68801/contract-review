@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "AI Data Center Moratorium Act March 2026",
+  "results": [
+    {
+      "title": "Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/",
+      "snippet": "WASHINGTON, March 25 — Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.) today announced the Artificial Intelligence ...",
+      "score": 1.0,
+      "date": "4 days ago"
+    },
+    {
+      "title": "Lawmakers push a bill to impose an AI data center moratorium",
+      "url": "https://www.latimes.com/business/story/2026-03-26/lawmakers-push-bill-to-impose-ai-data-center-moratorium",
+      "snippet": "A bill introduced by two high-profile progressive lawmakers would pause new data centers in the United States until national safeguards are ...",
+      "score": 0.9,
+      "date": "4 days ago"
+    },
+    {
+      "title": "[PDF] Artificial Intelligence Data Center Moratorium Act SECTION",
+      "url": "https://www.sanders.senate.gov/wp-content/uploads/Artificial-Intelligence-Data-Center-Moratorium-Act-Section-by-Section.pdf",
+      "snippet": "Leading experts and industry leaders have warned about catastrophic consequences from unchecked AI development and deployment, including: • Elon Musk, the ...",
+      "score": 0.8,
+      "date": "3 hours ago"
+    },
+    {
+      "title": "Sanders and AOC unveil data center moratorium bill - Axios",
+      "url": "https://www.axios.com/2026/03/25/sanders-aoc-data-center-moratorium-bill",
+      "snippet": "Sanders and AOC are staking out one of the most aggressive AI policy positions yet this Congress.",
+      "score": 0.7,
+      "date": "4 days ago"
+    },
+    {
+      "title": "Sen Sanders, Rep Ocasio-Cortez Announce AI Data Center ...",
+      "url": "https://www.benton.org/headlines/sen-sanders-rep-ocasio-cortez-announce-ai-data-center-moratorium-act",
+      "snippet": "Sen Bernie Sanders (I-VT) and Rep Alexandria Ocasio-Cortez (D-NY) announced the Artificial Intelligence Data Center Moratorium Act, ...",
+      "score": 0.6,
+      "date": "4 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "WASHINGTON, March 25 — Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.) today announced the Artificial Intelligence ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774850430.4816358,
+  "_cache_key": "80c4ca326502d996e15416c4ec72ede5",
+  "_cache_query": "AI Data Center Moratorium Act March 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

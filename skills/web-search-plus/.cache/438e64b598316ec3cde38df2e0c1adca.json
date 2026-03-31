@@ -1,0 +1,91 @@
+{
+  "provider": "serper",
+  "query": "AI trending news today March 30 2026",
+  "results": [
+    {
+      "title": "AI News of the Month for March 2026 - YouTube",
+      "url": "https://www.youtube.com/watch?v=WqlpNN8ztAk",
+      "snippet": "SUMMARY: Brian (@bgracely) and Brandon Whichard (@bwhichard, Software Defined Talk and Failover Media) discuss the biggest AI news stories ...",
+      "score": 1.0,
+      "date": "20 hours ago"
+    },
+    {
+      "title": "Have you heard these exciting AI news? - YouTube",
+      "url": "https://www.youtube.com/watch?v=qFq7EkmkRBQ",
+      "snippet": "Have you heard these exciting AI news? - March 27, 2026 AI Updates Weekly Presented by Lev Selector Slides on GDrive: ...",
+      "score": 0.9,
+      "date": "2 days ago"
+    },
+    {
+      "title": "The top 30 AI stories from March 2026 - The Humans in the Loop",
+      "url": "https://www.thehumansintheloop.ai/p/the-top-30-ai-stories-from-march",
+      "snippet": "The top 30 AI stories from March 2026. Robot training farms, Anthropic vs the Pentagon, and the AI system making bombing decisions in Iran.",
+      "score": 0.8,
+      "date": "3 days ago"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for March 2026 | Radical Data ...",
+      "url": "https://radicaldatascience.wordpress.com/2026/03/26/ai-news-briefs-bulletin-board-for-march-2026/",
+      "snippet": "Today, Adaption Labs, Inc. is introducing the Adaption Research Grant Program. The program provides academic researchers with complimentary ...",
+      "score": 0.7,
+      "date": "3 days ago"
+    },
+    {
+      "title": "Latest AI & Technology News Roundup – March 2026 - VT Netzwelt",
+      "url": "https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-march-2026/",
+      "snippet": "March 2026 was big for AI. GPT-5.4, Claude 4.6 and powerful AI agents just landed. See what these updates mean for businesses.",
+      "score": 0.6,
+      "date": "Mar 17, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "SUMMARY: Brian (@bgracely) and Brandon Whichard (@bwhichard, Software Defined Talk and Failover Media) discuss the biggest AI news stories ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.704,
+    "confidence_level": "high",
+    "reason": "high_confidence_match",
+    "top_signals": [
+      {
+        "matched": "today",
+        "weight": 2.5
+      },
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 8.75,
+      "tavily": 1.0
+    }
+  },
+  "_cache_timestamp": 1774836046.5598867,
+  "_cache_key": "438e64b598316ec3cde38df2e0c1adca",
+  "_cache_query": "AI trending news today March 30 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

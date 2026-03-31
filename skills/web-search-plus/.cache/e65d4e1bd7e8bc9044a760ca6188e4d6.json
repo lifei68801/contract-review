@@ -1,0 +1,87 @@
+{
+  "provider": "serper",
+  "query": "site:news.ycombinator.com AI 2026",
+  "results": [
+    {
+      "title": "State of AI 2026: The $600B inference subsidy, energy bottlenecks ...",
+      "url": "https://news.ycombinator.com/item?id=47330295",
+      "snippet": "The core finding that surprised me most: the AI tools everyone uses today are subsidized by 90 to 98 percent of their true cost. For every $1 a ...",
+      "score": 1.0,
+      "date": "Mar 10, 2026"
+    },
+    {
+      "title": "Google search AI response: *\"No, 2026 is not next year - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=46122157",
+      "snippet": "\"No, 2026 is not next year; it will be in two years. Since the current year is 2025, the next year is 2026.\".",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "Tired of AI, people are committing to the analog lifestyle in 2026",
+      "url": "https://news.ycombinator.com/item?id=46671020",
+      "snippet": "People having offline hobbies is healthy and completely separate from AI providing real value to society. If the AI industry takes a hit because ...",
+      "score": 0.8,
+      "date": "Jan 18, 2026"
+    },
+    {
+      "title": "What the 2026 AI price hikes taught me about lean engineering",
+      "url": "https://news.ycombinator.com/item?id=47377220",
+      "snippet": "The 2026 price hikes, driven by rising HBM memory costs, new energy taxes, and heavier compliance mandates, are not just inflationary pressures.",
+      "score": 0.7,
+      "date": "Mar 14, 2026"
+    },
+    {
+      "title": "Ask HN: What are your predictions for 2026? - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=46297348",
+      "snippet": "The AI bubble has chances of popping in 2026 but I am not sure about it but that being said, its a matter of when, not if in my opinion. But if AI bubble ...",
+      "score": 0.6,
+      "date": null
+    }
+  ],
+  "images": [],
+  "answer": "The core finding that surprised me most: the AI tools everyone uses today are subsidized by 90 to 98 percent of their true cost. For every $1 a ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.577,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 5.2,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774857671.1721747,
+  "_cache_key": "e65d4e1bd7e8bc9044a760ca6188e4d6",
+  "_cache_query": "site:news.ycombinator.com AI 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

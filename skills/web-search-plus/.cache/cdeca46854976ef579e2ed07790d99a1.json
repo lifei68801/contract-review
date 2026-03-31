@@ -1,0 +1,87 @@
+{
+  "provider": "serper",
+  "query": "TechCrunch AI latest March 30 2026",
+  "results": [
+    {
+      "title": "The biggest AI stories of the year (so far) - TechCrunch",
+      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "snippet": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry against sketchy products, and ...",
+      "score": 1.0,
+      "date": "Mar 13, 2026"
+    },
+    {
+      "title": "AI startups are eating the venture industry and the returns, so far, are ...",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "snippet": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share.",
+      "score": 0.9,
+      "date": "Mar 20, 2026"
+    },
+    {
+      "title": "March 2026 - TechCrunch",
+      "url": "https://techcrunch.com/2026/03/",
+      "snippet": "Sam Altman, chief executive officer of OpenAI Inc. In Brief. Why SoftBank's new $40B loan points to a 2026 OpenAI IPO · Marina Temkin. 1 day ago. SK hynix logo.",
+      "score": 0.8,
+      "date": null
+    },
+    {
+      "title": "Why AI startups are selling the same equity at two different prices",
+      "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "snippet": "Save up to $300 or 30% to TechCrunch Founder Summit. 1,000+ founders and investors come together at TechCrunch Founder Summit 2026 for a full ...",
+      "score": 0.7,
+      "date": "Mar 3, 2026"
+    },
+    {
+      "title": "AI companies are spending millions to thwart this former tech exec's ...",
+      "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
+      "snippet": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, ...",
+      "score": 0.6,
+      "date": "Mar 3, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry against sketchy products, and ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.584,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "latest",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 6.08,
+      "tavily": 0.9
+    }
+  },
+  "_cache_timestamp": 1774915314.3746533,
+  "_cache_key": "cdeca46854976ef579e2ed07790d99a1",
+  "_cache_query": "TechCrunch AI latest March 30 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

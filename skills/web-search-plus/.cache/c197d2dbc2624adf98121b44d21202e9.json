@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "AI Gartner explainable observability GenAI 25 billion market 2026",
+  "results": [
+    {
+      "title": "What 2026 Gartner Market Guide For Data Observability Tools ...",
+      "url": "https://www.montecarlodata.com/blog-what-2026-gartner-market-guide-for-data-observability-tools-means-for-your-data-and-ai-team-my-take/",
+      "snippet": "Data + AI Observability Is No Longer Optional · AI Is the Biggest Driver — and the Biggest Risk · Stand-Alone vs. Embedded — and the Push Toward ...",
+      "score": 1.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Gartner Announces Top Predictions for Data and Analytics in 2026",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-03-11-gartner-announces-top-predictions-for-data-and-analytics-in-2026",
+      "snippet": "Through 2027, GenAI and AI agent use will create the first true challenge to mainstream productivity tools in 30 years, prompting a $58 billion ...",
+      "score": 0.9,
+      "date": "Mar 11, 2026"
+    },
+    {
+      "title": "Market Guide for AI Evaluation and Observability Platforms - Gartner",
+      "url": "https://www.gartner.com/en/documents/7387730",
+      "snippet": "Summary. The nondeterminism in GenAI and agentic AI applications makes it difficult to measure and improve reliability and earn user trust.",
+      "score": 0.8,
+      "date": null
+    },
+    {
+      "title": "Gartner Predicts Search Engine Volume Will Drop 25% by 2026 ...",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents",
+      "snippet": "By 2026, traditional search engine volume will drop 25%, with search marketing losing market share to AI chatbots and other virtual agents, according to ...",
+      "score": 0.7,
+      "date": "Feb 19, 2024"
+    },
+    {
+      "title": "Comet Recognized in 2026 Gartner® Market Guide for AI Evaluation ...",
+      "url": "https://www.comet.com/site/blog/gartner-market-guide-february2026/",
+      "snippet": "The Gartner report notes that “AI applications and agents are inherently nondeterministic and opaque. This makes it difficult to measure and ...",
+      "score": 0.6,
+      "date": "Feb 17, 2026"
+    }
+  ],
+  "images": [],
+  "answer": "Data + AI Observability Is No Longer Optional · AI Is the Biggest Driver — and the Biggest Risk · Stand-Alone vs. Embedded — and the Push Toward ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774857705.7492583,
+  "_cache_key": "c197d2dbc2624adf98121b44d21202e9",
+  "_cache_query": "AI Gartner explainable observability GenAI 25 billion market 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

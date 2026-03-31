@@ -1,0 +1,87 @@
+{
+  "provider": "serper",
+  "query": "site:news.ycombinator.com AI March 2026",
+  "results": [
+    {
+      "title": "Ask HN: What are you working on? (March 2026) - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47204228",
+      "snippet": "AI deep audit of the same skills finds 16.4%. Surface scanning misses roughly 60% of the actual risk. The reason is that these skills aren't ...",
+      "score": 1.0,
+      "date": "Mar 1, 2026"
+    },
+    {
+      "title": "This new Stanford study published on March 26, 2026 shows that AI ...",
+      "url": "https://news.ycombinator.com/item?id=47554776",
+      "snippet": "The researchers found that when people use AI for relationship advice, they become 25% more convinced they are 'right' and significantly less ...",
+      "score": 0.9,
+      "date": "5 days ago"
+    },
+    {
+      "title": "I used to think that the people who keep saying (in March 2026) that ...",
+      "url": "https://news.ycombinator.com/item?id=47391468",
+      "snippet": "I used to think that the people who keep saying (in March 2026) that AI does not generate good code are just not smart and ask stupid prompts.",
+      "score": 0.8,
+      "date": null
+    },
+    {
+      "title": "2026 tech layoffs reach 45000 in March - Hacker News",
+      "url": "https://news.ycombinator.com/item?id=47380405",
+      "snippet": "2026 tech layoffs reach 45,000 in March (technode.global) ... Even if the cuts aren't from AI, execs will use AI as a reason to make these cuts.",
+      "score": 0.7,
+      "date": "Mar 14, 2026"
+    },
+    {
+      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
+      "url": "https://news.ycombinator.com/item?id=47476888",
+      "snippet": "The challenge I keep running into is that open agent networks without identity verification quickly become noise — same problem as LinkedIn DMs.",
+      "score": 0.6,
+      "date": null
+    }
+  ],
+  "images": [],
+  "answer": "AI deep audit of the same skills finds 16.4%. Surface scanning misses roughly 60% of the actual risk. The reason is that these skills aren't ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.577,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "news",
+        "weight": 2.5
+      },
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 5.2,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774936948.4839346,
+  "_cache_key": "ca4344cbb9fb28bca31f70bcf6017f7a",
+  "_cache_query": "site:news.ycombinator.com AI March 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}

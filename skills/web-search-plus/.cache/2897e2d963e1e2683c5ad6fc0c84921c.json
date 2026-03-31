@@ -1,0 +1,83 @@
+{
+  "provider": "serper",
+  "query": "clawhub.ai popular skills downloads stars 2026",
+  "results": [
+    {
+      "title": "Top ClawHub Skills",
+      "url": "https://clawhub.ai/skills/topclawhubskills",
+      "snippet": "You have access to a live API that provides real-time data about ClawHub skills — downloads, stars, newest additions, and security certification ...",
+      "score": 1.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Top 10 Popular OpenClaw Skills Every AI Agent Needs in 2026",
+      "url": "https://www.growexx.com/blog/top-10-popular-openclaw-skills/",
+      "snippet": "Discover the 10 most popular OpenClaw skills on ClawHub in 2026 — from Google Workspace automation to self-improving agents. Plus, critical security tips ...",
+      "score": 0.9,
+      "date": null
+    },
+    {
+      "title": "Best OpenClaw skills to install in 2026 (and what to build with each)",
+      "url": "https://plusai.com/blog/best-openclaw-skills",
+      "snippet": "A practical guide to the best OpenClaw skills and APIs: what they do, what to build, and how to set up your agent safely.",
+      "score": 0.8,
+      "date": "Mar 13, 2026"
+    },
+    {
+      "title": "ClawHub Surpasses 25,297 Skills with 20.35M Downloads - LinkedIn",
+      "url": "https://www.linkedin.com/posts/ddurand_openclaw-clawhub-skills-activity-7439192313320472576-pHGz",
+      "snippet": "Some insights from my ClawHub analyzer: as of March 15th 2026, 25,297 skills have been published. Those skills have already been downloaded over ...",
+      "score": 0.7,
+      "date": "Mar 15, 2026"
+    },
+    {
+      "title": "Best ClawHub Skills for AI Agent Developers in 2026 | Fast.io",
+      "url": "https://fast.io/resources/best-clawhub-skills-ai-agent-developers/",
+      "snippet": "The best ClawHub skills for AI agent developers include file management, code execution, browser automation, email handling, and team ...",
+      "score": 0.6,
+      "date": "7 days ago"
+    }
+  ],
+  "images": [],
+  "answer": "You have access to a live API that provides real-time data about ClawHub skills — downloads, stars, newest additions, and security certification ...",
+  "knowledge_graph": null,
+  "related_searches": [],
+  "routing": {
+    "auto_routed": true,
+    "provider": "serper",
+    "confidence": 0.449,
+    "confidence_level": "medium",
+    "reason": "moderate_confidence_match",
+    "top_signals": [
+      {
+        "matched": "2026",
+        "weight": 2.0
+      }
+    ],
+    "scores": {
+      "serper": 2.7,
+      "tavily": 0.4
+    }
+  },
+  "_cache_timestamp": 1774872379.0720901,
+  "_cache_key": "2897e2d963e1e2683c5ad6fc0c84921c",
+  "_cache_query": "clawhub.ai popular skills downloads stars 2026",
+  "_cache_provider": "serper",
+  "_cache_max_results": 5,
+  "_cache_params": {
+    "locale": "us:en",
+    "freshness": null,
+    "time_range": null,
+    "include_domains": null,
+    "exclude_domains": null,
+    "topic": "general",
+    "search_engines": null,
+    "include_news": true,
+    "search_type": "search",
+    "exa_type": "neural",
+    "exa_depth": "normal",
+    "exa_verbosity": "standard",
+    "category": null,
+    "similar_url": null
+  }
+}
