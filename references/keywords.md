@@ -43,8 +43,8 @@
 | 首款 ≥ 配置比例% | 签署后配置期限内 | `payment.first_payment_min_pct` |
 | 付款周期 ≤ 配置天数 | 超期须提前报备 | `payment.max_payment_cycle_days` |
 | 验收环节+支付节点 | 验收标准附件化 | — |
-| 验收逾期违约金 | 每天配置‰率，上限配置% | `payment.acceptance_penalty_*` |
+| 验收逾期违约金 | 每天配置‰率，上限配置% | `service_rights.acceptance_penalty_*` |
 | 暂停服务权 | 逾期配置天数可停服 | `service_rights.suspend_after_days` |
 | 送达条款 | 含电子送达 | — |
 | 订阅自动终止 | 按配置处理 | `product_service.subscription_auto_terminate` |
-| 买断维保限制 | 配置年数免费，续保配置% | `product_service.warranty_*` |
+| 买断维保限制 | 配置年数免费，续保由后续合同约定 | `product_service.warranty_period_years` |

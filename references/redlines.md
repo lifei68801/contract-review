@@ -47,10 +47,9 @@
 - 违规处理：要求修改至符合要求
 
 **R-002：源代码条款**
-- 配置字段：`ip.standard_product_source_code`（标准产品是否提供源码）
-- 配置字段：`ip.custom_source_code_to_customer`（定制功能源码归属）
-- 标准产品：按配置决定是否提供源代码
-- 客户要求源代码时：按配置的定制源码策略处理
+- 配置字段：`ip.source_code_policy`（A/B/C/D）
+- 配置字段：`ip.source_code_ip_owner`（B/C/D 选项时的IP归属）
+- 按配置的源代码交付策略执行审核
 - 此类情况须在合同审批时提前注明说明
 
 **R-003：知识产权归属**
@@ -105,8 +104,8 @@
 - 产品部署上线后须安排验收环节
 - 须对该环节设置支付节点
 - 验收标准须附件化（含验收测试用例）
-- 配置字段：`payment.acceptance_penalty_daily_rate`（逾期违约金日费率‰）
-- 配置字段：`payment.acceptance_penalty_cap_pct`（违约金上限%）
+- 配置字段：`service_rights.acceptance_penalty_daily_rate`（逾期违约金日费率‰）
+- 配置字段：`service_rights.acceptance_penalty_cap_pct`（违约金上限%）
 - 客户逾期不验收须追加违约金（按配置）
 - 无重大失误连续3次验收不通过，己方有权终止合同且不承担违约责任
 
@@ -183,8 +182,8 @@
 **R-021：税务与发票条款**
 - 税率变动时，以不含税价为基础，按调整后税率重新计算含税价格
 - 合同价款由多个产品及服务价款组成时，应分别载明每项产品或服务的具体金额
-- 配置字段：`compliance.product_tax_rate`
-- 配置字段：`compliance.service_tax_rate`
+- 产品税率：法定 13%（agent 直接使用法定值对照，无需用户配置）
+- 服务税率：法定 6%（agent 直接使用法定值对照，无需用户配置）
 - 发票类型须与税率对应
 - 因买方原因导致无法开具专票的，卖方可开具普票且不承担违约责任
 
